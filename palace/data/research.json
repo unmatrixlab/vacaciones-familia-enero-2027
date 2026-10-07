@@ -604,6 +604,14 @@
       "backs": "Publicado 2 mayo 2025, actualizado 23 abril 2026. Relato propio de caminata de unos 10,5 minutos, filas ágiles y distintos niveles de intensidad. Fecha de visita no especificada; contiene enlaces de afiliación.",
       "kind": "Experiencia editorial / afiliación",
       "consulted": "2026-10-07"
+    },
+    {
+      "id": "video-republica",
+      "title": "YouTube · Hotel Guide · RIU República",
+      "url": "https://www.youtube.com/watch?v=pPT00OFGjXA",
+      "backs": "Video aportado por el usuario. Título y canal verificados con metadatos de YouTube; fecha de publicación y estancia sin verificar. Corresponde a RIU República, distinto de Palace Punta Cana.",
+      "kind": "Video / aportado por el usuario",
+      "consulted": "2026-10-07"
     }
   ],
   "reviews": [
@@ -2107,5 +2115,20 @@
       "Aquaracer",
       "Stuka"
     ]
-  }
+  },
+  "videos": [
+    {
+      "id": "pPT00OFGjXA",
+      "url": "https://www.youtube.com/watch?v=pPT00OFGjXA",
+      "embed": "https://www.youtube-nocookie.com/embed/pPT00OFGjXA",
+      "title": "Amazing Parties and Aquapark… BUT I’d Never Return! RIU Republica Punta Cana",
+      "channel": "Hotel Guide",
+      "channelUrl": "https://www.youtube.com/@hotelguideforyou",
+      "hotel": "RIU República",
+      "consulted": "2026-10-07",
+      "published": null,
+      "stay": null,
+      "source": "video-republica"
+    }
+  ]
 }

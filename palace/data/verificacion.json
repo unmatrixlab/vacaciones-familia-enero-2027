@@ -3,7 +3,7 @@
   "fotos": 44,
   "testimonios": 27,
   "capitulos": 38,
-  "fuentes": 35,
+  "fuentes": 36,
   "controles": "Reseñas enero: 5; cargos 30% supera techo; restablecer; checklist persiste al recargar; visor siguiente/cerrar; 13 métricas; anclas internas sin roturas; sin errores JavaScript observados.",
   "launcher": "Ejecutable y sintaxis zsh correcta; apertura file:// no probada.",
   "tarifas": "Heredadas de hoy; no recotizadas para diez.",
@@ -14,5 +14,12 @@
     "controles": "Cronología 3 fechas; tabla 4 relatos; 6 datos del parque; filtros Parque acuático/Sargazo: 4 resultados cada uno; 30 preguntas; anclas sin roturas y sin errores JS observados; presupuesto base conservado",
     "captura": "../Resumen_sargazo_y_parque.jpg",
     "apertura": "Verificación HTTP local. Apertura file:// del launcher sin verificar."
+  },
+  "video_añadido": {
+    "fecha": "2026-10-07",
+    "url": "https://www.youtube.com/watch?v=pPT00OFGjXA",
+    "hotel": "RIU República",
+    "metadatos": "Título y canal comprobados mediante YouTube oEmbed.",
+    "reproduccion": "Requiere conexión; la reproducción puede depender de permisos de YouTube y del navegador."
   }
 }

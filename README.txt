@@ -20,3 +20,7 @@ Investigación: 7 octubre 2026. Precios y disponibilidad son observaciones o
 estimaciones fechadas; no reservas confirmadas. Las fotografías conservan sus
 fuentes y créditos en cada informe. No se otorga una licencia nueva al material
 de terceros. Los datos de trabajo y borradores no forman parte de este sitio.
+
+VIDEO COMPARTIDO
+https://www.youtube.com/watch?v=pPT00OFGjXA
+Hotel Guide, sobre RIU República. Reproductor y enlace en palace/index.html#video; requiere internet.
