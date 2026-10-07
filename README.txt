@@ -1,6 +1,6 @@
 ENERO, JUNTOS. — VACACIONES EN FAMILIA 2027
 
-Publicación web: pendiente de autorización para acceso público.
+Sitio web: https://unmatrixlab.github.io/vacaciones-familia-enero-2027/
 Proyecto: https://github.com/unmatrixlab/vacaciones-familia-enero-2027
 
 Contenido:
@@ -10,7 +10,7 @@ Contenido:
 
 Sitio estático: HTML, CSS, JavaScript y fotografías locales. Sin dependencias,
 servidor de aplicación, cuentas de usuarios ni claves de acceso.
-La publicación propuesta usa GitHub Pages desde la raíz de main. El archivo .nojekyll
+GitHub Pages publica desde la raíz de la rama main. El archivo .nojekyll
 mantiene los archivos estáticos sin procesamiento Jekyll.
 
 Para verlo localmente: abrir index.html o ejecutar python3 -m http.server 8000
