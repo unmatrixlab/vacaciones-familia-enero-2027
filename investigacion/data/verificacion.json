@@ -1,0 +1,10 @@
+{
+  "consulted": "2026-10-07",
+  "dataChecks": "Aprobado: pesos, puntajes, sumas, totales de diez, rutas, filtros de admisión, referencias, fotografías, ganadores y archivos; no se usa fetch.",
+  "browserChecks": "Aprobado en HTTP local: 28 casos de filtros, diez órdenes, favoritos persistentes, comparador de 2–4 y límite, seis fichas, galerías, diez ganadores, auditoría de 75 zonas y buscador de 80 fuentes. Sin errores de consola. Pantallas lógicas de 1440 y 1920 px.",
+  "launcherChecks": "Aprobado: sintaxis zsh, permiso ejecutable, localización de la propia carpeta tras moverla a una ruta con espacios, preferencia Chrome y fallback mediante open instrumentado.",
+  "limitation": "El navegador automatizado bloqueó file://. La interfaz se probó en HTTP local. No se ejecutó la apertura real del launcher; el original usa /usr/bin/open de macOS y la aplicación no requiere servidor.",
+  "primaryCandidates": 6,
+  "images": 47,
+  "sources": 80
+}

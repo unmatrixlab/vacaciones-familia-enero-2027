@@ -1,0 +1,234 @@
+[
+  {
+    "hotel": "RIU Palace Macao",
+    "file": "assets/images/macao-01.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Macao/Hotel/hotel-riu-palace-macao.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-macao",
+    "caption": "Arena Gorda y frente real de Macao",
+    "sha256": "54074fecdd2e388a92c9efa8b5c1e8590f75e6a74ac8f0de4d4e3fedb6125107"
+  },
+  {
+    "hotel": "RIU Palace Macao",
+    "file": "assets/images/macao-02.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Macao/Hotel/hotel-riu-palace-macao-2.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-macao",
+    "caption": "Vista aérea del hotel renovado",
+    "sha256": "6fa986a4feb3f23aeccf40125aa5b63dfa3ba1ec2582d6f8bde0fae67efd4ac5"
+  },
+  {
+    "hotel": "RIU Palace Macao",
+    "file": "assets/images/macao-03.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Macao/Habitaciones/room-riu-palace-macao-SJSB.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-macao",
+    "caption": "Superior Junior Suite · catálogo oficial",
+    "sha256": "1bf9e96ccab8a414617409f4ea17ca56a1a481a8d3b7815097e3d516081cbfd1"
+  },
+  {
+    "hotel": "RIU Palace Macao",
+    "file": "assets/images/macao-04.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Macao/Piscinas/pool-riu-palace-macao-2.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-macao",
+    "caption": "Piscina y reposeras",
+    "sha256": "b26dc674f20a48550ff08d62ce6648add55bc822dc01e09a7151352de8f29420"
+  },
+  {
+    "hotel": "RIU Palace Macao",
+    "file": "assets/images/macao-05.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Macao/Hotel/lobby-reception-riu-palace-macao.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-macao",
+    "caption": "Bar interior",
+    "sha256": "c51e641fcca49df8d488baf7052faed34b41406b3f7f05a0732b6a519701fcc4"
+  },
+  {
+    "hotel": "RIU Palace Macao",
+    "file": "assets/images/macao-06.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Macao/Hotel/reception-riu-palace-macao-2.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-macao",
+    "caption": "Lobby y áreas compartidas",
+    "sha256": "27821ebacf0147f80c01ca85dcf3cae83cb706acba3c8dea624dd0a94736447a"
+  },
+  {
+    "hotel": "Excellence Carmen Punta Cana",
+    "file": "assets/images/excellence-01.jpg",
+    "source": "https://76a7b323da8554ec22e0-d946e249d9a895ced1092e3c543d8d1e.ssl.cf1.rackcdn.com/responsive/Native/750px/u/_bodas/dominican-republic-wedding-beach-venues.jpg",
+    "page": "https://www.excellenceresorts.com/punta-cana/excellence-carmen-punta-cana/gallery",
+    "caption": "Playa del resort · montaje de boda de catálogo",
+    "sha256": "2642069c924b094c0b31a78491da55a2e65d91f8f6800b1d3fbeead3d2824259"
+  },
+  {
+    "hotel": "Excellence Carmen Punta Cana",
+    "file": "assets/images/excellence-02.jpg",
+    "source": "https://76a7b323da8554ec22e0-d946e249d9a895ced1092e3c543d8d1e.ssl.cf1.rackcdn.com/responsive/Native/750px/u/_bodas/dominican-republic-resort-wedding-beach-venues.jpg",
+    "page": "https://www.excellenceresorts.com/punta-cana/excellence-carmen-punta-cana/gallery",
+    "caption": "Frente de playa · foto con ambientación de evento",
+    "sha256": "4c157c8a666db01b0b325fabf61c35b874459cd0a605c95857e22982c9f84baa"
+  },
+  {
+    "hotel": "Excellence Carmen Punta Cana",
+    "file": "assets/images/excellence-03.jpg",
+    "source": "https://84c1b501fde61dba63bc-fa6d706bb129c036124b532437347c9f.ssl.cf1.rackcdn.com/responsive/4:3/750px/u/_xec/_suites/dominican-republic-suites-pool-view.jpg",
+    "page": "https://www.excellenceresorts.com/punta-cana/excellence-el-carmen/rooms/category/suites/",
+    "caption": "Junior Suite Garden/Pool View · catálogo oficial",
+    "sha256": "3ddf506617ed33fbb28cc88c6d5a9d76899de1ad084e139d9ffe1f688863fb11"
+  },
+  {
+    "hotel": "Excellence Carmen Punta Cana",
+    "file": "assets/images/excellence-04.jpg",
+    "source": "https://76a7b323da8554ec22e0-d946e249d9a895ced1092e3c543d8d1e.ssl.cf1.rackcdn.com/responsive/Native/750px/u/_habitaciones/luxury-junior-suite-ocean-view-punta-cana-1.jpg",
+    "page": "https://www.excellenceresorts.com/punta-cana/excellence-carmen-punta-cana/gallery",
+    "caption": "Junior Suite Ocean View · categoría distinta de la base",
+    "sha256": "0673d3173479f089c0967b8d86b2123c88a5be4ada27f88d3b4223f8872dbcb3"
+  },
+  {
+    "hotel": "Excellence Carmen Punta Cana",
+    "file": "assets/images/excellence-05.jpg",
+    "source": "https://76a7b323da8554ec22e0-d946e249d9a895ced1092e3c543d8d1e.ssl.cf1.rackcdn.com/responsive/1:1/750px/u/_lifestyleromance/XEC_Pool_Relax_LR.jpg",
+    "page": "https://www.excellenceresorts.com/punta-cana/excellence-el-carmen/",
+    "caption": "Área de piscina · catálogo del resort",
+    "sha256": "1bb0152a1ee50ca9ed4f61911d5f4062a2361eb458de5c2c5e50a47627ee81f4"
+  },
+  {
+    "hotel": "RIU Palace Bávaro",
+    "file": "assets/images/bavaro-01.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Bavaro/Hero/new-slide-hotel-riu-palace-bavaro-2.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-bavaro",
+    "caption": "Arena Gorda y hotel tras la reforma",
+    "sha256": "79745ad55e47bd3222a1873c69d421514bfa0dff48006154b7476a76b9c9890b"
+  },
+  {
+    "hotel": "RIU Palace Bávaro",
+    "file": "assets/images/bavaro-02.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Bavaro/Playa/playa-beach-hotel-riu-palace-bavaro.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-bavaro",
+    "caption": "Sector de playa y palmeras",
+    "sha256": "489d10c8cbdd8315164a87f3536b0304f9d4421438fa5e555df30587bfa4530c"
+  },
+  {
+    "hotel": "RIU Palace Bávaro",
+    "file": "assets/images/bavaro-03.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Bavaro/Habitaciones/SJEB-room-hotel-riu-palace-bavaro.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-bavaro",
+    "caption": "Junior Suite · catálogo actual",
+    "sha256": "f3f55d5fd65d33dc385f0f9643a796141eb473e662407d96a80cafa2acaebdf7"
+  },
+  {
+    "hotel": "RIU Palace Bávaro",
+    "file": "assets/images/bavaro-04.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Bavaro/Habitaciones/SUJE-room-hotel-riu-palace-bavaro.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-bavaro",
+    "caption": "Habitación y zona de estar",
+    "sha256": "4c20e28b52d8142a9161b077fbe0986ad7f9721618b9a1ddb4464735a6c75728"
+  },
+  {
+    "hotel": "RIU Palace Bávaro",
+    "file": "assets/images/bavaro-05.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Bavaro/Piscinas/pools-hotel-riu-palace-bavaro-2.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-bavaro",
+    "caption": "Piscina compartida",
+    "sha256": "d8eefb7db97aab5ae6342156dd8b0f00a954abfa11be290913300cd9a4fa3b5a"
+  },
+  {
+    "hotel": "RIU Palace Bávaro",
+    "file": "assets/images/bavaro-06.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Bavaro/Gastronomia/main-rte-hotel-riu-palace-bavaro-5.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-bavaro",
+    "caption": "Restaurante",
+    "sha256": "295ed30a1acefe669bf4a22d925273ab3d67a2606f27a4ef17c0467d45fff290"
+  },
+  {
+    "hotel": "RIU Palace Punta Cana",
+    "file": "assets/images/punta-01.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Hotel/hotel-riu-palace-punta-cana.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "caption": "Hotel y Arena Gorda desde el aire",
+    "sha256": "15ae4dcfa8d7f663d68cf1cfb1e1411eac3ed43d5d4774d4a443894e34cfa98a"
+  },
+  {
+    "hotel": "RIU Palace Punta Cana",
+    "file": "assets/images/punta-02.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Piscinas/piscina-hotel-riu-palace-punta-cana-2.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "caption": "Mar y piscinas del frente",
+    "sha256": "5e23de96bfc5aba25ee6f37af6695d9e0710d1d50591a93abe4698c317661787"
+  },
+  {
+    "hotel": "RIU Palace Punta Cana",
+    "file": "assets/images/punta-03.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SUSB-2.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "caption": "Junior Suite · catálogo oficial",
+    "sha256": "cffd3b029cdc394da9659f1341756eaa51d2430b112f0492a6640ff9d3d7026e"
+  },
+  {
+    "hotel": "RIU Palace Punta Cana",
+    "file": "assets/images/punta-04.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJMB.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "caption": "Habitación y balcón",
+    "sha256": "7dc3a4dd0e7851bf94da12d95ecab8576443ad63b9498244bc2fe7611293879b"
+  },
+  {
+    "hotel": "RIU Palace Punta Cana",
+    "file": "assets/images/punta-05.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-steakhouse-hotel-riu-punta-cana.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "caption": "Restaurante y terraza",
+    "sha256": "c25f8cc48e7d98a7e8b4647b1110f796367a756e39a473ce39e00ad85cfe1d75"
+  },
+  {
+    "hotel": "RIU Palace Punta Cana",
+    "file": "assets/images/punta-06.jpg",
+    "source": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/hero/slide-hotel-riu-palace-punta-cana.jpg",
+    "page": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "caption": "Piscina principal",
+    "sha256": "b9003d555135b4062de4fc2304f180ae613a739a39c0a4f38be61aede5b82505"
+  },
+  {
+    "hotel": "Viva Miches by Wyndham",
+    "file": "assets/images/viva-01.jpg",
+    "source": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/04/aereas-2-54293477425-o.jpg",
+    "page": "https://vivaresortsbywyndham.com/resorts/viva-miches-by-wyndham/",
+    "caption": "Vista aérea del frente real de Viva Miches",
+    "sha256": "f9ea6571c38a1f89733535f4ce52b7f5a85e84048e937707696a14e97511b17b"
+  },
+  {
+    "hotel": "Viva Miches by Wyndham",
+    "file": "assets/images/viva-02.jpg",
+    "source": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/04/comfort-miches.jpg",
+    "page": "https://vivaresortsbywyndham.com/resorts/viva-miches-by-wyndham/",
+    "caption": "Comfort · categoría del modelo",
+    "sha256": "bfe365d541b3490f16deae0f26d2a3fbcbf5fd126431430320f7ebb4cdb2afb0"
+  },
+  {
+    "hotel": "Viva Miches by Wyndham",
+    "file": "assets/images/viva-03.jpg",
+    "source": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/04/superior-garden-view-54293536953-o.jpg",
+    "page": "https://vivaresortsbywyndham.com/resorts/viva-miches-by-wyndham/",
+    "caption": "Superior Garden View · alternativa no presupuestada",
+    "sha256": "d89a52362fc974b5ea6e5b23ba52b9d83d4148f579699c80ecc58b971c60ba3b"
+  },
+  {
+    "hotel": "Viva Miches by Wyndham",
+    "file": "assets/images/viva-04.jpg",
+    "source": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/05/latin-fusion-miches-768x512.jpg",
+    "page": "https://vivaresortsbywyndham.com/resorts/viva-miches-by-wyndham/",
+    "caption": "Restaurante Latin Fusion",
+    "sha256": "674e14293c1918c7a5c08cb697060fff4788cf2e1ab5459bc63c4a274583c969"
+  },
+  {
+    "hotel": "Viva Miches by Wyndham",
+    "file": "assets/images/viva-05.jpg",
+    "source": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/05/atlantis-restaurant-miches-1-768x512.jpg",
+    "page": "https://vivaresortsbywyndham.com/resorts/viva-miches-by-wyndham/",
+    "caption": "Restaurante Atlantis",
+    "sha256": "4ee1eb6436afebfb4890b4a2ad7e35b4fe5b94429863f2681dbc19fb73da373e"
+  },
+  {
+    "hotel": "Viva Miches by Wyndham",
+    "file": "assets/images/viva-06.jpg",
+    "source": "https://cdn.vivaresortsbywyndham.com/wp-content/uploads/2025/05/mediterranean-restaurant-miches-2-768x512.jpg",
+    "page": "https://vivaresortsbywyndham.com/resorts/viva-miches-by-wyndham/",
+    "caption": "Restaurante Mediterráneo",
+    "sha256": "c9af02d3ef6fdea28807c34ae00eb0c15c2b2f8833ec4ddb476bb32465e96f9e"
+  }
+]

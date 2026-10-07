@@ -1,0 +1,76 @@
+zona	pais	grupo	etapa	motivo
+Eagle Beach	Aruba	Caribe	Preselección	Arena amplia y mar occidental; explorar costo real sin AI
+Palm Beach	Aruba	Caribe	Preselección	Mar protegido y comida fácil; contrastar densidad y precios
+Sorobon / Lac Bay	Bonaire	Caribe	Descartado	Conexión regional adicional no demostrada dentro de una escala; viento y playa orientada al windsurf
+Blue Bay	Curaçao	Caribe	Preselección	Bahía natural y apartamentos con playa y tenis
+Mambo / Sea Aquarium	Curaçao	Caribe	Preselección	Baño protegido y restaurantes; investigar ruido y servicio
+Westpunt / Grote Knip	Curaçao	Caribe	Descartado	Playa magnífica pero restaurantes y alojamiento dispersos; peor comodidad para diez
+Dominicus / Bayahíbe	República Dominicana	Caribe	Preselección	Costa caribeña a sotavento, arena y servicios; distinta playa de Bávaro
+Cap Cana / Juanillo	República Dominicana	Caribe	Preselección	Buena playa y transfer corto; riesgo de exceder presupuesto premium
+Bávaro	República Dominicana	Caribe	Preselección	Referencia AI y conexión ROS; penalizar repetición y exposición a algas
+Las Terrenas / Samaná	República Dominicana	Caribe	Descartado	Aeropuertos accesibles con una escala suelen implicar traslado largo; oleaje norte en enero
+Playa Dorada / Puerto Plata	República Dominicana	Caribe	Descartado	Mar atlántico más variable en enero; calidad de baño menos favorable
+Seven Mile Beach / Negril	Jamaica	Caribe	Preselección	Playa destacada; verificar seguridad turística antes de puntuar
+Montego Bay	Jamaica	Caribe	Descartado	Advertencias de criminalidad y problemas en zonas turísticas; menor encaje en tranquilidad
+Grand Case / Petite Plage	Saint-Martin	Caribe	Preselección	Bahía protegida y restaurantes; verificar entrada, marejada y costo
+Shoal Bay East	Anguilla	Caribe	Descartado	Otro cruce de frontera y barco tras SXM; costo alto y logística menos simple para diez
+Costa oeste / Holetown	Barbados	Caribe	Preselección	Mar occidental calmado y enero favorable; hotelería cara
+Maxwell / costa sur	Barbados	Caribe	Descartado	Más oleaje y viento que oeste; servicio premium a precio alto
+Grace Bay	Turks y Caicos	Caribe	Descartado	Precio alto en enero y conectividad sin tránsito estadounidense no demostrada
+Seven Mile Beach	Islas Caimán	Caribe	Descartado	Sin visa local para argentinos, pero ruta práctica sin visa de tránsito de EE.UU. no demostrada
+Cable Beach / Nassau	Bahamas	Caribe	Descartado	Frentes fríos, agua menos cálida en enero y alertas de seguridad en Nassau
+Exuma	Bahamas	Caribe	Descartado	Mayor complejidad aérea y gasto; agua y clima invernal menos estables
+Varadero	Cuba	Caribe	Descartado	Alerta oficial evitar viajes no esenciales; abastecimiento y servicio no encajan
+Cayo Santa María	Cuba	Caribe	Descartado	Alerta oficial y transfer largo desde Santa Clara; incertidumbre de suministros
+Reduit / Rodney Bay	Santa Lucía	Caribe	Descartado	Rutas prácticas sin tránsito estadounidense requieren conexiones adicionales
+Grand Anse	Granada	Caribe	Descartado	Muy buena playa, pero conexión simple sin EE.UU. no demostrada
+Dickenson Bay	Antigua y Barbuda	Caribe	Descartado	Hotelería premium cara y ruta simple sin visa de tránsito no demostrada
+Costa Mujeres / Playa Mujeres	México	México	Preselección	Playa amplia, transfer corto y AI; sargazo y viento deben contrastarse
+Cancún norte / Playa Caracol	México	México	Preselección	Mar más protegido que costa este; densidad y calidad de servicio a verificar
+Playacar	México	México	Preselección	Arena amplia y bosque; AI con deportes a evaluar
+Puerto Morelos	México	México	Preselección	Arrecife y localidad tranquila; comparar playa real y alimentación
+Akumal	México	México	Descartado	Bahía y snorkel excelentes, pero restricciones de baño, afluencia y AI premium caro
+Cozumel	México	México	Descartado	Playa de resort generalmente estrecha o rocosa; ferry desde CUN excede logística ideal
+Holbox	México	México	Descartado	Traslado carretera y ferry largo; frentes fríos, inundaciones y fricción para diez
+Huatulco / bahías de Tangolunda	México	México	Preselección	Enero seco y bahías para baño; EZE requiere traslado terrestre pero una escala viable
+Nuevo Nayarit / Bahía de Banderas	México	México	Descartado	Agua más fresca y menor transparencia; no supera alternativas caribeñas
+Los Cabos / bahías aptas para baño	México	México	Descartado	Muchos frentes de hotel no aptos para baño y hoteles de bahía muy caros
+Muro Alto	Brasil	Brasil	Preselección	Laguna arrecifal, agua muy cálida y resorts con tenis
+Porto de Galinhas centro	Brasil	Brasil	Descartado	Multitudes de enero y mareas condicionan baño; Muro Alto ofrece mejor base tranquila
+Ipioca	Brasil	Brasil	Preselección	Playa amplia y complejos completos a transfer corto de MCZ
+Ponta Verde / Pajuçara	Brasil	Brasil	Descartado	Playa urbana y alta temporada; preferir base más tranquila en Ipioca
+Maragogi	Brasil	Brasil	Descartado	Transfer MCZ/REC normalmente más de dos horas; piscinas dependen de marea
+Japaratinga	Brasil	Brasil	Descartado	Hotelería prometedora, pero transfer desde aeropuertos internacionales demasiado largo
+São Miguel dos Milagres / Toque	Brasil	Brasil	Preselección	Arrecife, tranquilidad y posadas; evaluar ruta MCZ y comidas
+Patacho / Porto de Pedras	Brasil	Brasil	Descartado	Atractiva playa, pero transfer en el límite o superior a dos horas y comida más dispersa
+Praia do Forte	Brasil	Brasil	Preselección	Buen servicio y tenis; comprobar si el baño frente al hotel satisface criterio de playa
+Imbassaí	Brasil	Brasil	Descartado	Mar abierto con olas y corrientes; menor facilidad de baño que Muro Alto
+Pipa / Madeiro	Brasil	Brasil	Descartado	Accesos por escaleras, mareas y traslados; menor comodidad continua de playa
+Natal / Ponta Negra	Brasil	Brasil	Descartado	Conexión ROS prometedora, pero baño abierto y obras/cambios de playa merecen prudencia
+Jericoacoara	Brasil	Brasil	Descartado	Viento, acceso final y arena de playa menos conveniente para ocho noches de baño tranquilo
+Fernando de Noronha	Brasil	Brasil	Descartado	Swell de enero y conexiones adicionales; costos y accesos no encajan
+Jurerê / norte de Florianópolis	Brasil	Brasil	Preselección	Logística regional buena; lluvia de verano, agua y afluencia a contrastar
+Búzios	Brasil	Brasil	Descartado	Transfer desde GIG normalmente unas tres horas y agua variable
+Arraial do Cabo	Brasil	Brasil	Descartado	Transfer desde GIG largo y surgencia de agua fría; no compensa logística
+Trancoso	Brasil	Brasil	Descartado	Transfer y precios altos de posadas premium; mejor valor en Alagoas/Pernambuco
+Playa Conchal	Costa Rica	Centroamérica	Preselección	Playa y estación seca excelentes; conectividad a LIR pendiente
+Playa Hermosa / Guanacaste	Costa Rica	Centroamérica	Preselección	Bahía tranquila y transfer LIR corto; ruta simple no demostrada
+Flamingo	Costa Rica	Centroamérica	Descartado	Conectividad a LIR no confirmada sin EE.UU. ni segunda escala
+Sámara / Carrillo	Costa Rica	Centroamérica	Descartado	Traslado final largo desde SJO/LIR además de conectividad; no favorece grupo
+Manuel Antonio	Costa Rica	Centroamérica	Descartado	Traslado desde SJO habitualmente tres horas o más
+Playa Blanca / Río Hato	Panamá	Centroamérica	Preselección	ROS–PTY directo y estación seca; transfer final es puerta crítica
+Guna Yala / San Blas	Panamá	Centroamérica	Descartado	Carretera larga más barco, alojamiento rústico y comida poco flexible
+Bocas del Toro	Panamá	Centroamérica	Descartado	Cambio de aeropuerto/avión y enero lluvioso; base de playa exige más transporte
+West Bay / Roatán	Honduras	Centroamérica	Descartado	No se demuestra ruta enero con una escala en aerolínea establecida sin EE.UU.; lluvia y seguridad adicional
+Placencia	Belice	Centroamérica	Descartado	Tres a cuatro horas por carretera desde BZE, o vuelo doméstico adicional
+Ambergris Caye / San Pedro	Belice	Centroamérica	Descartado	Vuelo doméstico extra o cadena taxi/ferry; algas y playa de alojamiento menos fuerte
+Corn Islands	Nicaragua	Centroamérica	Descartado	Requiere vuelo regional extra después de llegar a Managua
+San Juan del Sur	Nicaragua	Centroamérica	Descartado	Traslado largo desde MGA y playas de mar abierto más orientadas al surf
+Spratt Bight / San Luis	Colombia	Sudamérica	Preselección	Mar excelente y ROS–PTY–ADZ; verificar servicio, viento y concentración turística
+Providencia	Colombia	Sudamérica	Descartado	Vuelo regional adicional o barco largo y movido después de San Andrés
+Barú / islas del Rosario	Colombia	Sudamérica	Descartado	Base isleña y transfers con fricción; hotelería de playa premium cara y excursiones concurridas
+Tayrona / Santa Marta	Colombia	Sudamérica	Descartado	Baño restringido en playas con corrientes y acceso terrestre/senderos; comodidad insuficiente
+Punta Sal	Perú	Sudamérica	Preselección	Agua más cálida del norte peruano y ruta vía LIM; comparar servicio y oleaje
+Vichayito / Las Pocitas	Perú	Sudamérica	Descartado	Mar abierto y rango de servicio; transfer desde PIU largo, mejor investigar Punta Sal vía TBP
+Salinas	Ecuador	Sudamérica	Descartado	Advertencias de seguridad costera y playa urbana; no satisface tranquilidad buscada
+Los Roques	Venezuela	Sudamérica	Descartado	Alerta oficial evitar todo viaje y vuelo adicional desde Caracas

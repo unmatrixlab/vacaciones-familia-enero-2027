@@ -1,0 +1,17 @@
+{
+  "fecha": "2026-10-07",
+  "candidatos": 5,
+  "fuentes": 40,
+  "fotos": 29,
+  "referencias_rotas": 0,
+  "fotos_faltantes": 0,
+  "interfaz": "Verificada en navegador por HTTP local: RIU=3; sargazo garantizado=0; comparación de tres RIU; simulador cambio/cargos; 13 barras en ficha Macao; 6 fotos Macao cargadas; favoritos persisten al recargar; sin errores JavaScript observados.",
+  "lanzador": "Ejecutable; zsh -n correcto. No ejecutado: navegador de pruebas bloquea file://.",
+  "inventario": "Cinco dobles y diez asientos no garantizados; propuestas condicionales.",
+  "ampliacion_sargazo_parque": {
+    "fecha": "2026-10-07",
+    "alcance": "Resumen y ficha Palace Punta Cana; catálogo de fuentes actualizado",
+    "controles": "Ficha abierta en navegador: nuevos estudios visibles, sin errores JS; JSON y JS sincronizados; IDs de fuentes verificados",
+    "fuentes_totales": 49
+  }
+}

@@ -1,0 +1,3632 @@
+{
+  "meta": {
+    "title": "Enero, juntos.",
+    "consulted": "2026-10-07",
+    "start": "2026-10-07 17:46:08 UTC",
+    "researchFreeze": "2026-10-07 19:35:37 UTC",
+    "window": "5–25 enero 2027",
+    "people": 10,
+    "nights": 8,
+    "target": 3500,
+    "ceiling": 4000,
+    "explored": 75,
+    "shortlisted": 25,
+    "finalists": 6,
+    "scope": "75 zonas examinadas a profundidad desigual; 25 preseleccionadas. Seis configuraciones principales, sin completar cuotas con productos incompatibles.",
+    "currency": "USD",
+    "fxAssumption": "R$5,50 por US$1: supuesto de planificación, no cotización actual ni pronóstico de cambio enero.",
+    "priceRule": "Precios probables redondeados a US$10/persona y US$100/grupo. Desglose numérico conserva importes para auditar la suma. Cotización de un asiento o una habitación no acredita inventario conjunto.",
+    "gates": "Seguridad turística razonable en zona, playa apta, enero favorable, pasaporte argentino con entrada simple, ≤1 escala por sentido, transfer normal alrededor de ≤2 h, capacidad publicada para diez y costo probable ≤US$4.000. Todos quedan condicionados a precio/inventario final; ninguno es reserva confirmada.",
+    "scoreRule": "Juicios editoriales 0–100, no mediciones ni probabilidades. Clima = aire 25% + agua 25% + viento 20% + lluvia 30%; comida = calidad 50% + comodidad 50%. Global aplica los pesos publicados. Incertidumbre y problemas se reflejan en puntuación y texto.",
+    "normalRule": "Las medias son de enero completo o referencias diarias 5–25 cuando existen. No hay un pronóstico fiable de enero 2027. Algunas playas usan estaciones regionales; se indica el proxy.",
+    "excludedBase": "Compras, spa, excursiones, clases, asientos premium y seguros opcionales no obligatorios quedan fuera."
+  },
+  "metrics": [
+    {
+      "key": "beach",
+      "label": "Playa y mar",
+      "color": "#51a5c8"
+    },
+    {
+      "key": "air",
+      "label": "Temperatura del aire",
+      "color": "#df7959"
+    },
+    {
+      "key": "water",
+      "label": "Temperatura del agua",
+      "color": "#20a99e"
+    },
+    {
+      "key": "wind",
+      "label": "Viento",
+      "color": "#4b80bb"
+    },
+    {
+      "key": "rain",
+      "label": "Lluvia / estabilidad",
+      "color": "#718ba0"
+    },
+    {
+      "key": "climate",
+      "label": "Clima de enero",
+      "color": "#718ba0"
+    },
+    {
+      "key": "service",
+      "label": "Servicio + alojamiento",
+      "color": "#bca054"
+    },
+    {
+      "key": "foodQuality",
+      "label": "Calidad de comida",
+      "color": "#cc941e"
+    },
+    {
+      "key": "foodComfort",
+      "label": "Comodidad para comer",
+      "color": "#cc941e"
+    },
+    {
+      "key": "quiet",
+      "label": "Tranquilidad",
+      "color": "#589371"
+    },
+    {
+      "key": "travel",
+      "label": "Facilidad del viaje",
+      "color": "#8f76b0"
+    },
+    {
+      "key": "tennis",
+      "label": "Tenis / deporte",
+      "color": "#a0ad3d"
+    },
+    {
+      "key": "value",
+      "label": "Precio / valor",
+      "color": "#b97698"
+    }
+  ],
+  "weights": {
+    "beach": 25,
+    "climate": 15,
+    "service": 15,
+    "food": 15,
+    "quiet": 10,
+    "travel": 8,
+    "tennis": 7,
+    "value": 5
+  },
+  "candidates": [
+    {
+      "id": "ibero",
+      "name": "Iberostar Hacienda Dominicus",
+      "subtitle": "La experiencia más completa, con vuelo directo",
+      "country": "República Dominicana",
+      "region": "Bayahibe · Dominicus",
+      "beach": "Playa Dominicus",
+      "type": "resort",
+      "mode": "All Inclusive",
+      "ai": true,
+      "dates": "15–23 enero 2027",
+      "nights": 8,
+      "occupancy": "2 dobles + 2 triples · 2+2+3+3",
+      "room": "Prémium Vista Tropical · 37 m²",
+      "priceStatus": "Vuelo y habitaciones observados; conjunto de 10 pendiente",
+      "summary": "Arena clara, agua cálida y comidas resueltas. El vuelo directo desde Rosario elimina la escala y reduce mucho la carga del viaje.",
+      "pros": [
+        "Vuelo directo desde Rosario; mejor logística del grupo.",
+        "All Inclusive y buena variedad de restaurantes.",
+        "Mar occidental más protegido que Bávaro."
+      ],
+      "cons": [
+        "Probable muy cerca del techo; tarifa no reembolsable.",
+        "Dos habitaciones triples implican compartir una cama doble.",
+        "Reposeras reservadas y cierre puntual de piscina en reseñas 2026."
+      ],
+      "scores": {
+        "beach": 94,
+        "air": 92,
+        "water": 93,
+        "wind": 84,
+        "rain": 85,
+        "service": 88,
+        "foodQuality": 84,
+        "foodComfort": 95,
+        "quiet": 84,
+        "travel": 95,
+        "tennis": 68,
+        "value": 75,
+        "climate": 88.55,
+        "food": 89.5
+      },
+      "climate": {
+        "air": 29,
+        "night": 21,
+        "water": 27,
+        "wind": 19,
+        "rain": 45,
+        "humidity": "Sin normal homogénea local verificada",
+        "notes": "Referencia enero 5–25: 29 °C de día y 20–22 °C de noche. Lluvia 20–65 mm: Bayahibe y Punta Cana tienen series y exposición distintas; no se finge una normal local precisa. Viento 16–22 km/h estimado. Agua aproximadamente 27 °C. La costa oeste suele ofrecer mejor baño que la fachada atlántica, con variaciones diarias.",
+        "refs": [
+          "bay-climate",
+          "dominicus"
+        ],
+        "rainDisplay": "20–65",
+        "windDisplay": "16–22",
+        "waterDisplay": "≈27"
+      },
+      "flight": {
+        "airport": "ROS",
+        "route": "ROS → PUJ · directo",
+        "airline": "Arajet",
+        "out": "15 ene · ROS 04:00 → PUJ 10:43 · 7h43 · DM6677",
+        "back": "23 ene · PUJ 17:59 → ROS 02:39 del 24 ene · 7h40 · DM6676",
+        "stops": 0,
+        "doorHours": 14,
+        "transferMin": 90,
+        "transferKm": 80,
+        "fare": "Basic observado US$1.230. Personal 6 kg incluido; carry-on no incluido. Se provisionan US$150 para llevar 12 kg y bolso personal en ambos sentidos. Asiento estándar asignado; prepago aéreo y extras sujetos a tarifa final.",
+        "refs": [
+          "puj-flight",
+          "arajet",
+          "arajet-fare"
+        ]
+      },
+      "costs": [
+        {
+          "label": "Vuelo ida y vuelta",
+          "low": 1230,
+          "prob": 1230,
+          "high": 1350,
+          "note": "Precio observado de un adulto; diez plazas sin confirmar.",
+          "refs": [
+            "puj-flight"
+          ]
+        },
+        {
+          "label": "Carry-on + bolso personal",
+          "low": 80,
+          "prob": 150,
+          "high": 190,
+          "note": "Provisión de suplemento; Basic sólo incluye el artículo personal.",
+          "refs": [
+            "arajet"
+          ]
+        },
+        {
+          "label": "Alojamiento + comidas + impuestos",
+          "low": 2370.2,
+          "prob": 2370.2,
+          "high": 2550,
+          "note": "2×4.990 + 2×6.861 = US$23.702 grupo. Impuestos y AI incluidos. Multiplicación de tarifas individuales, no oferta grupal.",
+          "refs": [
+            "puj-book"
+          ]
+        },
+        {
+          "label": "Transfer PUJ ↔ resort",
+          "low": 60,
+          "prob": 75,
+          "high": 100,
+          "note": "Privado para diez; estimación ida/vuelta, cotización pendiente.",
+          "refs": []
+        },
+        {
+          "label": "Traslado local Rosario ↔ ROS",
+          "low": 20,
+          "prob": 20,
+          "high": 20,
+          "note": "Provisión US$200 para el grupo, ida/vuelta.",
+          "refs": []
+        },
+        {
+          "label": "Margen operativo",
+          "low": 30,
+          "prob": 100,
+          "high": 150,
+          "note": "Contingencia para variación de tarifa y consumos normales; no excursiones.",
+          "refs": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dónde dormimos",
+          "text": "Cuatro Prémium Vista Tropical: dos dobles y dos triples. La categoría admite tres adultos; solicitar dos camas dobles en las triples, con una compartida por dos adultos. No se presupuestan sofás ni categorías superiores. La tarifa flexible observada encarece el plan por encima de US$4.000/persona: la propuesta utiliza prepago no reembolsable, con una modificación según términos del motor. El propio motor aclara que sus precios individuales no aplican a grupos; exigir confirmación escrita de las cuatro unidades antes de pagar.",
+          "refs": [
+            "ibero",
+            "puj-book",
+            "ibero-ota"
+          ]
+        },
+        {
+          "title": "Playa y baño",
+          "text": "Arena blanca fina y agua clara. La playa de Dominicus permite pasar el día junto al resort; algunos sectores de ingreso tienen coral o piedra, por lo que conviene elegir el acceso arenoso. La profundidad y el oleaje cambian. Sargazo: la fachada occidental es favorable frente a sectores atlánticos, pero no ofrece inmunidad. USF registró un enero 2026 regional muy activo: no se promete una playa sin algas en 2027. No se detectó una alerta estacional sólida de medusas que justifique eliminarla.",
+          "refs": [
+            "dominicus",
+            "sargassum",
+            "noaa"
+          ]
+        },
+        {
+          "title": "Comer sin resolver logística",
+          "text": "Buffet, especialidades, bebidas razonables y minibar dentro del AI. No se incluye Star Prestige ni servicios premium. La oferta oficial actual tiene prioridad sobre folletos viejos. Room service publicado 11–23; algunas OTAs dicen 24 horas, por lo que no se promete servicio nocturno ilimitado. Para diez conviene organizar juntos las cenas de especialidad al llegar.",
+          "refs": [
+            "ibero",
+            "ibero-ota"
+          ]
+        },
+        {
+          "title": "Servicio, tranquilidad y búsqueda adversarial",
+          "text": "Las experiencias de atención y comida son mayormente favorables, pero aparecen quejas sobre reservas de reposeras y actividad alrededor de las piscinas. Una reseña de febrero 2026 menciona obra y una piscina cerrada durante su semana: es un incidente concreto, no evidencia de obras continuas hasta 2027. Se descuenta puntuación y se pide confirmar el calendario de obras. Familias y animación conviven con sectores tranquilos; evitar habitación frente al escenario.",
+          "refs": [
+            "ibero-reviews",
+            "ibero-forum",
+            "ibero-ota"
+          ]
+        },
+        {
+          "title": "Tenis",
+          "text": "Presencia de tenis respaldada por la ficha comercial. Una respuesta del hotel de 2016 describe dos canchas de arcilla; es demasiado antigua para garantizar superficie, cantidad operativa o estado de 2027. Iluminación, raquetas, precio y reserva pendientes. La puntuación de 68 refleja esa incertidumbre; clases opcionales fuera del costo.",
+          "refs": [
+            "ibero-ta",
+            "ibero-ota"
+          ]
+        },
+        {
+          "title": "Seguridad y entrada",
+          "text": "República Dominicana mantiene advertencia nacional por criminalidad. El plan se concentra en resort de Dominicus, traslado privado diurno y playas turísticas; evita desplazamientos improvisados de noche. Pasaporte argentino para turismo normal, e-ticket oficial gratuito y tarjeta turística usualmente incluida en el vuelo. Revisar vigencia del pasaporte y requisitos vigentes para 2027; no se presupone una exención temporal de validez.",
+          "refs": [
+            "dr-safety",
+            "dr-entry",
+            "dr-eticket"
+          ]
+        }
+      ],
+      "conditions": [
+        "Confirmar cuatro habitaciones juntas, camas de las triples y aceptación de grupo.",
+        "Cerrar diez asientos con carry-on sin superar US$40.000 efectivos.",
+        "Confirmar ausencia de obras relevantes y operación del tenis."
+      ],
+      "photos": [
+        {
+          "path": "assets/images/ibero-01.jpg",
+          "caption": "Vista real del resort y Playa Dominicus",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/7b0ee0ba.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 799
+        },
+        {
+          "path": "assets/images/ibero-02.jpg",
+          "caption": "Mar y arrecife del frente de playa",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/915d35e7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "path": "assets/images/ibero-03.jpg",
+          "caption": "Arena y palapas del sector de playa",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/6b21bed5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/ibero-04.jpg",
+          "caption": "Prémium Vista Tropical · catálogo Expedia, sin fecha de captura",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/16a727f8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/ibero-05.jpg",
+          "caption": "Piscina compartida del resort",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/6f4fbe1a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "path": "assets/images/ibero-06.jpg",
+          "caption": "Mesas del restaurante junto al mar",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/7e8bb58e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/ibero-07.jpg",
+          "caption": "Restaurante de especialidad",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/a16f11c8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 1799
+        },
+        {
+          "path": "assets/images/ibero-08.jpg",
+          "caption": "Jardines y circulación interior",
+          "url": "https://images.trvl-media.com/lodging/1000000/890000/881200/881180/1ea141cc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+          "sourcePage": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "global": 87.9,
+      "totals": {
+        "low": 3790.2,
+        "prob": 3945.2,
+        "high": 4360
+      },
+      "display": {
+        "low": 3790,
+        "prob": 3950,
+        "high": 4360
+      },
+      "groupDisplay": {
+        "low": 37900,
+        "prob": 39500,
+        "high": 43600
+      },
+      "gate": "Admitido condicional: coste probable ≤US$4.000 y ruta ≤1 escala; precio de diez plazas, inventario y condiciones a cerrar antes de reservar.",
+      "metricData": {
+        "beach": "Playa Dominicus",
+        "air": "29 °C día / 21 °C noche",
+        "water": "≈27 °C · referencia histórica",
+        "wind": "16–22 km/h estimado",
+        "rain": "20–65 mm/mes · referencia enero",
+        "climate": "Índice compuesto para enero",
+        "service": "Prémium Vista Tropical · 37 m²",
+        "foodQuality": "All Inclusive",
+        "foodComfort": "Incluye logística de todas las comidas",
+        "quiet": "Juicio de conveniencia familiar",
+        "travel": "ROS · 14 h puerta a puerta",
+        "tennis": "Presencia sí; operación 2027 pendiente",
+        "value": "~US$3,950 por persona"
+      },
+      "rank": 1
+    },
+    {
+      "id": "aruba",
+      "name": "Oceania · Grand Regency BG131-4",
+      "subtitle": "La mejor playa con una casa familiar amplia",
+      "country": "Aruba",
+      "region": "Eagle Beach",
+      "beach": "Eagle Beach",
+      "type": "apartamento",
+      "mode": "Apartamento + comidas presupuestadas",
+      "ai": false,
+      "dates": "13–21 enero 2027",
+      "nights": 8,
+      "occupancy": "4 dormitorios · 2+2+3+3 · 10 adultos",
+      "room": "BG131-4 · aprox. 372 m² + terraza 139 m²",
+      "priceStatus": "Unidad exacta cotizada para 10; vuelo para 1",
+      "summary": "Eagle Beach enfrente, seis camas reales para diez y mucho espacio compartido. Se paga también comer fuera y delegar parte de la limpieza.",
+      "pros": [
+        "Cotización real de la unidad exacta para diez adultos.",
+        "Playa muy amplia, agua clara y buen contexto turístico.",
+        "Gran sala, cocina y terraza para reunir a la familia."
+      ],
+      "cons": [
+        "Hay que cruzar una calle para llegar a la playa.",
+        "Alisios presentes: unos 26 km/h de media en enero.",
+        "Comidas y servicio requieren organización; un dormitorio está en subsuelo."
+      ],
+      "scores": {
+        "beach": 96,
+        "air": 92,
+        "water": 92,
+        "wind": 65,
+        "rain": 86,
+        "service": 83,
+        "foodQuality": 88,
+        "foodComfort": 76,
+        "quiet": 91,
+        "travel": 68,
+        "tennis": 84,
+        "value": 87,
+        "climate": 84.8,
+        "food": 82.0
+      },
+      "climate": {
+        "air": 30.3,
+        "night": 24.8,
+        "water": 26.5,
+        "wind": 25.9,
+        "rain": 44,
+        "humidity": "77,8% · estación aeropuerto",
+        "notes": "Normal oficial enero 1991–2020: 44 mm y 10,8 días con al menos 1 mm. Enero todavía cierra la estación húmeda; puede llover en chaparrones. Viento 7,2 m/s convertido a 25,9 km/h. Eagle Beach occidental suele ofrecer baño más protegido, aunque el viento se siente en la arena. Mar: banda secundaria 26–27 °C, no medición de playa ni pronóstico.",
+        "refs": [
+          "aruba-normal",
+          "aruba-season",
+          "aruba-water"
+        ],
+        "rainDisplay": "44",
+        "windDisplay": "25,9",
+        "waterDisplay": "26–27"
+      },
+      "flight": {
+        "airport": "ROS",
+        "route": "ROS → PUJ → AUA / AUA → LIM → ROS",
+        "airline": "Arajet ida · LATAM vuelta",
+        "out": "13 ene · ROS 04:00 → AUA 15:20 · 12h20 · PUJ 3h17 · DM6677 / DM700",
+        "back": "21 ene · AUA 19:15 → ROS 06:30 del 22 ene · 10h15 · LIM 1h50 · LA2441 / LA2432",
+        "stops": 1,
+        "doorHours": 18,
+        "transferMin": 30,
+        "transferKm": 8,
+        "fare": "US$903 observado ida/vuelta para un adulto. Dos billetes completos, uno por sentido; cada conexión dentro de su billete, sin autoconexión interna. Arajet ida sin carry-on Basic; se presupuestan US$120 de suplemento total, pendiente de cotizar. Google indica cabina en el regreso LATAM, pero falta identificar tarifa concreta.",
+        "refs": [
+          "flights",
+          "arajet",
+          "latam"
+        ]
+      },
+      "costs": [
+        {
+          "label": "Vuelo ida y vuelta",
+          "low": 903,
+          "prob": 903,
+          "high": 1050,
+          "note": "Arajet/LATAM observado para un adulto.",
+          "refs": [
+            "flights"
+          ]
+        },
+        {
+          "label": "Carry-on + bolso personal",
+          "low": 70,
+          "prob": 120,
+          "high": 170,
+          "note": "Provisión para ambos sentidos; monto final no observado.",
+          "refs": [
+            "arajet",
+            "latam"
+          ]
+        },
+        {
+          "label": "Unidad completa · todos los cargos",
+          "low": 1569.442,
+          "prob": 1569.442,
+          "high": 1690,
+          "note": "Total observado US$15.694,42 para diez. Incluye limpieza final, tax y cargo de tarjeta; no se vuelven a sumar.",
+          "refs": [
+            "oceania",
+            "aruba-tax"
+          ]
+        },
+        {
+          "label": "Limpieza durante estadía",
+          "low": 50,
+          "prob": 60,
+          "high": 90,
+          "note": "Dos servicios adicionales presupuestados; precio y frecuencia por confirmar.",
+          "refs": []
+        },
+        {
+          "label": "Todas las comidas y bebidas",
+          "low": 500,
+          "prob": 640,
+          "high": 780,
+          "note": "US$80 por persona/día probable: compras para desayuno, almuerzo y cenas fuera; restaurante para diez con reserva.",
+          "refs": []
+        },
+        {
+          "label": "Movilidad para restaurantes",
+          "low": 20,
+          "prob": 50,
+          "high": 90,
+          "note": "Bolsa de taxis para salidas; no alquiler de auto ni grandes recorridos.",
+          "refs": []
+        },
+        {
+          "label": "Transfer AUA ↔ Oceania",
+          "low": 55,
+          "prob": 70,
+          "high": 100,
+          "note": "Privado para diez ida/vuelta estimado.",
+          "refs": []
+        },
+        {
+          "label": "ED Card · sostenibilidad",
+          "low": 20,
+          "prob": 20,
+          "high": 20,
+          "note": "US$20 por cada adulto.",
+          "refs": [
+            "aruba-fee",
+            "aruba-ed"
+          ]
+        },
+        {
+          "label": "Seguro médico mínimo",
+          "low": 35,
+          "prob": 55,
+          "high": 100,
+          "note": "Prima estimada según edades; cobertura mínima publicada US$15.000. No se compra el seguro opcional porcentual del vendedor.",
+          "refs": [
+            "aruba-entry"
+          ]
+        },
+        {
+          "label": "Traslado local Rosario ↔ ROS",
+          "low": 20,
+          "prob": 20,
+          "high": 20,
+          "note": "Ida/vuelta, US$200 grupo estimado.",
+          "refs": []
+        },
+        {
+          "label": "Margen operativo",
+          "low": 30,
+          "prob": 100,
+          "high": 150,
+          "note": "Variación de precios y consumos normales.",
+          "refs": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dónde dormimos",
+          "text": "BG131-4 admite diez adultos: cuatro dormitorios, dos king y cuatro full, con distribución 2+2+3+3. Los triples comparten una cama full y utilizan la otra; no hace falta sofá. Hay un dormitorio en subsuelo y escaleras, apto para este grupo sin problemas de movilidad. Se presupuesta la versión de cuatro dormitorios: se excluyen fotos y capacidad de la versión de cinco. Terraza con jacuzzi y mesa para diez.",
+          "refs": [
+            "oceania"
+          ]
+        },
+        {
+          "title": "Cotización exacta de ocho noches",
+          "text": "13–21 enero, diez adultos: renta US$13.800 menos descuento US$600; lodge tax US$1.650, tasa ambiental US$24, limpieza final US$350 y tarjeta US$470,42. Total US$15.694,42. El motor indicó fechas disponibles al consultar, sin bloquear inventario. El seguro opcional del vendedor de US$1.054,61 estaba desmarcado y no se incluye; sí se provisiona el seguro médico mínimo aparte. Limpieza inicial/final incluida; limpieza intermedia tiene provisión adicional.",
+          "refs": [
+            "oceania",
+            "aruba-tax",
+            "aruba-entry"
+          ]
+        },
+        {
+          "title": "Playa y baño",
+          "text": "Eagle Beach es ancha, de arena blanca y con mar claro. El complejo está frente a la playa, separado por la calle costera: hay que cruzarla. Sillas y toallas portátiles de la unidad; sombra pública no garantizada y no hay servicio de mozos de hotel en la arena. La orientación oeste favorece el baño frente a costas de barlovento, aunque pueden darse olas y viento. Algas ocasionales posibles; no se ofrece garantía de ausencia.",
+          "refs": [
+            "aruba-beach",
+            "oceania",
+            "sargassum"
+          ]
+        },
+        {
+          "title": "Cómo comeremos",
+          "text": "Cocina amplia y compra inicial coordinable por concierge. El presupuesto incluye comida y bebidas razonables de todos los días, junto con cenas fuera y taxis. Se propone desayunar en casa, alternar almuerzos sencillos y reservar restaurantes para diez. Este formato permite buena comida, pero requiere elegir lugares y horarios: comodidad 76, inferior al AI. No se presume delivery constante ni cocinero incluido.",
+          "refs": [
+            "oceania"
+          ]
+        },
+        {
+          "title": "Servicio, tranquilidad y búsqueda adversarial",
+          "text": "Condominio con acceso controlado, piscinas comunes y soporte del administrador. No hay recepción hotelera ni housekeeping diario automático. El dormitorio inferior usa sistema sanitario con instrucciones especiales: no arrojar papel al inodoro. La búsqueda no reunió suficiente volumen de reseñas recientes de BG131-4 para afirmar consistencia excepcional; la reputación del administrador no prueba esta unidad. Pedir inventario, limpieza intermedia y soporte de incidencias por escrito.",
+          "refs": [
+            "oceania",
+            "oceania-tourism"
+          ]
+        },
+        {
+          "title": "Tenis",
+          "text": "El administrador publica uso gratuito de canchas del complejo, con coordinación en seguridad y préstamo/reserva de equipo. La galería muestra dos canchas duras; cantidad operativa, iluminación y estado actual requieren confirmación. Dentro del complejo, sin taxi. Clases y equipamiento extraordinario no integran la base.",
+          "refs": [
+            "oceania"
+          ]
+        },
+        {
+          "title": "Seguridad y entrada",
+          "text": "Aruba tiene recomendación oficial de precauciones normales; cuidar pertenencias y cruces de calle. Pasaporte argentino sin visa caribeña en turismo normal, ED Card electrónica y tasa de US$20. La página migratoria publica seguro médico mínimo válido con cobertura US$15.000; se incluye una prima estimada de US$55 y se debe cotizar para edades 20–70. Esto es distinto del antiguo seguro COVID eliminado.",
+          "refs": [
+            "aruba-safety",
+            "dutch-visa",
+            "aruba-entry",
+            "aruba-ed",
+            "aruba-fee"
+          ]
+        },
+        {
+          "title": "Rosario frente a Buenos Aires",
+          "text": "Para las mismas fechas se observó EZE–PUJ–AUA / AUA–PTY–EZE en US$1.046, frente a US$903 desde ROS. Sumando US$120 de equipaje, US$250/persona de traslado privado Rosario–EZE ida/vuelta y US$70 de noche previa, el transporte de Buenos Aires cuesta US$1.486 frente a US$1.023 desde ROS antes del traslado local. Diferencia aproximada US$463/persona, algo menor al descontar el transfer local ROS. Además, la ida exige unas 24 horas puerta a puerta incluyendo noche previa. Aun omitiendo esa noche, ROS sigue siendo más barato y más cómodo. El traslado terrestre no está cotizado: US$250/persona es una provisión conservadora. Si el operador ofreciera US$120/persona ida/vuelta, la diferencia efectiva bajaría a unos US$313 respecto de ROS incluyendo su traslado local, y EZE rondaría US$3.920/persona. Con la provisión de US$250, EZE ronda US$4.050. En ambas hipótesis Rosario sigue siendo más barato y requiere menos esfuerzo.",
+          "refs": [
+            "ba-flight",
+            "flights"
+          ]
+        }
+      ],
+      "conditions": [
+        "Reconfirmar BG131-4, tarifa final, política de cancelación y pago, sin sustitución de unidad.",
+        "Cotizar seguro para todos, limpieza intermedia y compra inicial.",
+        "Cerrar diez plazas y carry-on; organizar cenas y uso de cancha."
+      ],
+      "photos": [
+        {
+          "path": "assets/images/aruba-01.jpg",
+          "caption": "Eagle Beach frente al complejo; una calle separa la arena",
+          "url": "https://prestigevacationsaruba.com/home/l9a83689812699/vrp/pvarentals/loc1026_eagle-beach-aruba-prestige-vacations-aruba-01_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/aruba-02.jpg",
+          "caption": "Playa y palapas públicas, sombra no garantizada",
+          "url": "https://prestigevacationsaruba.com/home/l9a83689812699/vrp/pvarentals/site1031_oceania_deluxe_beachfront_condo_resort_prestige_vacations_aruba__12_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/aruba-03.jpg",
+          "caption": "Terraza privada con jacuzzi de BG131-4",
+          "url": "https://come2holiday.com/wp-content/uploads/2026/03/prop1091_aruba-vacation-rental-grand-regency-four-bedroom-condo-bg131-4-01_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/aruba-04.jpg",
+          "caption": "Sala de la unidad exacta para compartir en familia",
+          "url": "https://prestigevacationsaruba.com/home/l9a83689812699/vrp/pvarentals/prop1091_aruba-vacation-rental-grand-regency-four-bedroom-condo-bg131-4-09_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/aruba-05.jpg",
+          "caption": "Dormitorio king de BG131-4",
+          "url": "https://prestigevacationsaruba.com/home/l9a83689812699/vrp/pvarentals/prop1091_aruba-vacation-rental-grand-regency-four-bedroom-condo-bg131-4-17_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/aruba-06.jpg",
+          "caption": "Dormitorio con dos camas full",
+          "url": "https://prestigevacationsaruba.com/home/l9a83689812699/vrp/pvarentals/prop1091_aruba-vacation-rental-grand-regency-four-bedroom-condo-bg131-4-22_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/aruba-07.jpg",
+          "caption": "Dormitorio de subsuelo con dos camas full",
+          "url": "https://prestigevacationsaruba.com/home/l9a83689812699/vrp/pvarentals/prop1091_aruba-vacation-rental-grand-regency-four-bedroom-condo-bg131-4-30_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/aruba-08.jpg",
+          "caption": "Canchas del complejo, imagen del administrador",
+          "url": "https://prestigevacationsaruba.com/home/l9a83689812699/vrp/pvarentals/site1031_oceania_deluxe_beachfront_condo_resort_prestige_vacations_aruba__09_1920w.jpg",
+          "sourcePage": "https://come2holiday.com/property/1091/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "global": 86.2,
+      "totals": {
+        "low": 3272.442,
+        "prob": 3607.442,
+        "high": 4260
+      },
+      "display": {
+        "low": 3270,
+        "prob": 3610,
+        "high": 4260
+      },
+      "groupDisplay": {
+        "low": 32700,
+        "prob": 36100,
+        "high": 42600
+      },
+      "gate": "Admitido condicional: coste probable ≤US$4.000 y ruta ≤1 escala; precio de diez plazas, inventario y condiciones a cerrar antes de reservar.",
+      "metricData": {
+        "beach": "Eagle Beach",
+        "air": "30.3 °C día / 24.8 °C noche",
+        "water": "26–27 °C · referencia histórica",
+        "wind": "25,9 km/h normal oficial",
+        "rain": "44 mm/mes · referencia enero",
+        "climate": "Índice compuesto para enero",
+        "service": "BG131-4 · aprox. 372 m² + terraza 139 m²",
+        "foodQuality": "Apartamento + comidas presupuestadas",
+        "foodComfort": "Incluye logística de todas las comidas",
+        "quiet": "Juicio de conveniencia familiar",
+        "travel": "ROS · 18 h puerta a puerta",
+        "tennis": "Complejo · gratuito publicado",
+        "value": "~US$3,610 por persona"
+      },
+      "rank": 2
+    },
+    {
+      "id": "toque",
+      "name": "Pousada do Toque",
+      "subtitle": "Silencio, agua cálida y atención personal",
+      "country": "Brasil",
+      "region": "São Miguel dos Milagres · Alagoas",
+      "beach": "Praia do Toque",
+      "type": "hotel",
+      "mode": "Boutique con desayuno",
+      "ai": false,
+      "dates": "12–20 enero 2027",
+      "nights": 8,
+      "occupancy": "5 chalés dobles · 2+2+2+2+2",
+      "room": "Mezcla de categorías dobles por cotizar",
+      "priceStatus": "Vuelo observado; alojamiento de enero estimado",
+      "summary": "La alternativa más íntima: pocos chalés, playa de arrecife y restaurante en la propiedad. El costo queda cerca del techo y el transfer roza dos horas.",
+      "pros": [
+        "Pousada pequeña y tranquila, muy alejada del formato masivo.",
+        "Agua cercana a 28 °C y playa de arrecife.",
+        "Buen restaurante en la propiedad; desayuno incluido."
+      ],
+      "cons": [
+        "No hay cotización conjunta de cinco chalés para enero.",
+        "Transfer MCZ largo, al límite de dos horas.",
+        "Reseñas recientes señalan fallas de mantenimiento."
+      ],
+      "scores": {
+        "beach": 93,
+        "air": 83,
+        "water": 96,
+        "wind": 86,
+        "rain": 77,
+        "service": 82,
+        "foodQuality": 88,
+        "foodComfort": 90,
+        "quiet": 96,
+        "travel": 68,
+        "tennis": 68,
+        "value": 76,
+        "climate": 85.05,
+        "food": 89.0
+      },
+      "climate": {
+        "air": 31,
+        "night": 22.4,
+        "water": 28,
+        "wind": 17,
+        "rain": 91.2,
+        "humidity": "Sin normal homogénea local verificada",
+        "notes": "Enero 5–25: calor de playa y agua cálida. Se usa Maceió como proxy regional, a unos 95 km: 91,2 mm es la normal de enero, no los 62,2 mm registrados en 2025. Viento 14–20 km/h: estimación regional de planificación, sin normal local comparable; incertidumbre mayor que Aruba. Mareas y tormentas pueden cambiar el baño. No es pronóstico de enero 2027.",
+        "refs": [
+          "maceio-normal",
+          "maceio-sea",
+          "milagres-tourism"
+        ],
+        "rainDisplay": "≈91",
+        "windDisplay": "14–20",
+        "waterDisplay": "≈28"
+      },
+      "flight": {
+        "airport": "ROS",
+        "route": "ROS → GIG → MCZ",
+        "airline": "GOL",
+        "out": "12 ene · ROS 03:00 → MCZ 11:45 · 8h45 · GIG 3h20 · G37723 / G32076",
+        "back": "20 ene · MCZ 17:30 → ROS 01:15 del 21 ene · 7h45 · GIG 1h30 · G32079 / G37722",
+        "stops": 1,
+        "doorHours": 15.5,
+        "transferMin": 120,
+        "transferKm": 114,
+        "fare": "US$1.292 ida/vuelta observado para un adulto. La tarifa concreta no quedó identificada; se agrega US$80 de provisión para Light/carry-on de 12 kg y bolso personal. No se paga selección premium. Confirmar diez plazas juntas y conexión protegida.",
+        "refs": [
+          "flights",
+          "gol"
+        ]
+      },
+      "costs": [
+        {
+          "label": "Vuelo ida y vuelta",
+          "low": 1292,
+          "prob": 1292,
+          "high": 1390,
+          "note": "GOL observado; un adulto.",
+          "refs": [
+            "flights"
+          ]
+        },
+        {
+          "label": "Carry-on + bolso personal",
+          "low": 40,
+          "prob": 80,
+          "high": 100,
+          "note": "Provisión Light, hasta 12 kg; tarifa final pendiente.",
+          "refs": [
+            "gol"
+          ]
+        },
+        {
+          "label": "Cinco chalés + desayuno",
+          "low": 1709.09,
+          "prob": 1818.18,
+          "high": 1927.27,
+          "note": "Modelo R$2.350 / 2.500 / 2.650 por doble/noche, ocho noches. R$5,50/USD sólo supuesto de planificación; no cotización enero.",
+          "refs": [
+            "toque-rate"
+          ]
+        },
+        {
+          "label": "Almuerzos, cenas y bebidas",
+          "low": 350,
+          "prob": 450,
+          "high": 500,
+          "note": "Restaurante propio y salidas próximas; desayuno incluido.",
+          "refs": []
+        },
+        {
+          "label": "Transfer MCZ ↔ Toque",
+          "low": 80,
+          "prob": 100,
+          "high": 120,
+          "note": "Vehículo privado para diez, ida/vuelta; estimación.",
+          "refs": []
+        },
+        {
+          "label": "Impuestos / cargos pendientes",
+          "low": 60,
+          "prob": 80,
+          "high": 100,
+          "note": "Provisión conservadora; inclusiones no verificadas para tarifa enero.",
+          "refs": []
+        },
+        {
+          "label": "Traslado local Rosario ↔ ROS",
+          "low": 20,
+          "prob": 20,
+          "high": 20,
+          "note": "Ida/vuelta estimado.",
+          "refs": []
+        },
+        {
+          "label": "Margen operativo",
+          "low": 40,
+          "prob": 80,
+          "high": 100,
+          "note": "Cambio de tarifa y consumos. La sensibilidad cambiaria se expone aparte.",
+          "refs": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dónde dormimos y cómo se calculó",
+          "text": "Cinco chalés dobles entre las categorías de una pousada de 17 unidades; no cinco chalés Jardim idénticos. Las fotos de Jardim son un ejemplo del catálogo, no una promesa de categoría. Se modela R$2.500 por pareja y noche: 5×8×2.500 / 5,5 / 10 = US$1.818/persona. Referencias publicadas: R$2.050 en noviembre y R$29.700 por pareja para siete noches de Réveillon. Ninguna corresponde a 12–20 enero. A R$5,00/USD, el alojamiento sube unos US$182/persona y el probable supera US$4.000: exige cotización final en USD.",
+          "refs": [
+            "toque",
+            "toque-rooms",
+            "toque-rate"
+          ]
+        },
+        {
+          "title": "Playa, arrecife y mareas",
+          "text": "Arena clara fina, tonos verdes y turquesas y agua cálida. Arrecife costero y marea: en bajamar hay sectores muy bajos y el baño continuo puede exigir caminar; para nadar mejor elegir media/pleamar. No hace falta excursión para disfrutar la playa. Algas locales y lluvia intensa pueden afectar transparencia; no se deduce ausencia futura del catálogo. No hay evidencia suficiente de un patrón serio de medusas específico de enero para eliminarla.",
+          "refs": [
+            "toque",
+            "milagres-tourism",
+            "maceio-sea"
+          ]
+        },
+        {
+          "title": "Comida y servicio",
+          "text": "Desayuno incluido y restaurante en la propiedad para almuerzo/cena. Se suma US$450/persona para todas las comidas restantes y bebidas normales. Para diez, acordar mesas y horarios antes de llegar; no depender de taxis diarios. Michelin la incluye en su guía hotelera: no es una estrella de restaurante. La atención y gastronomía reciben elogios, con alcance limitado al volumen de experiencias revisadas.",
+          "refs": [
+            "toque",
+            "toque-michelin",
+            "toque-review"
+          ]
+        },
+        {
+          "title": "Búsqueda adversarial y tranquilidad",
+          "text": "Dos reseñas verificadas de abril 2026 describen escaleras/techo deteriorados y un problema de agua caliente que duró dos días, junto con elogios a empleados y comida. Se toman como señal de mantenimiento que debe aclararse, no como prueba de fracaso general. Pedir fotos recientes de las cinco unidades y confirmar reparaciones. La escala pequeña favorece el descanso; elegir chalés sin proximidad a cocina o eventos.",
+          "refs": [
+            "toque-review"
+          ]
+        },
+        {
+          "title": "Tenis y logística",
+          "text": "Fuentes hoteleras/guía mencionan tenis tradicional y beach tennis como instalaciones diferentes. Cantidad, superficie, iluminación, uso incluido y estado actual no quedaron verificados: puntaje 68 y confirmación escrita obligatoria si se elige por tenis. MCZ a Toque: unos 114 km, 1h50–2h estimados en condiciones normales; tráfico puede superar el límite. Sólo avanzar si el operador confirma una llegada razonable cercana a dos horas.",
+          "refs": [
+            "toque",
+            "toque-michelin",
+            "toque-rate",
+            "flights"
+          ]
+        },
+        {
+          "title": "Seguridad y entrada",
+          "text": "Brasil requiere precauciones por criminalidad. Este plan utiliza propiedad con acceso controlado y transfer privado contratado; no se extrapola la seguridad del alojamiento a todo el destino. Pasaporte argentino o documento Mercosur admitido según condiciones oficiales. No se identificó seguro médico general obligatorio: el opcional no integra la base. La alerta vigente sobre bebidas adulteradas aconseja consumir marcas selladas en establecimientos formales. Revalidar entrada y avisos antes de pagar.",
+          "refs": [
+            "brazil-safety",
+            "brazil-entry",
+            "brazil-arg"
+          ]
+        }
+      ],
+      "conditions": [
+        "Cotizar cinco chalés dobles juntos, categorías exactas y todos los cargos.",
+        "Mantener total efectivo ≤US$40.000 incluso con tipo de cambio.",
+        "Confirmar mantenimiento, transfer y tenis tradicional operativo."
+      ],
+      "photos": [
+        {
+          "path": "assets/images/toque-01.jpg",
+          "caption": "Vista de la playa y arrecife junto a la pousada",
+          "url": "https://pousadadotoque.com.br/wp-content/uploads/2017/07/Pousada-do-Toque-reduzidas-1x1-61.jpg",
+          "sourcePage": "https://pousadadotoque.com.br/a-pousada/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "path": "assets/images/toque-02.jpg",
+          "caption": "Reposeras en la playa del Toque",
+          "url": "https://pousadadotoque.com.br/wp-content/uploads/2016/11/1-121.jpg",
+          "sourcePage": "https://pousadadotoque.com.br/a-pousada/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1500,
+          "height": 651
+        },
+        {
+          "path": "assets/images/toque-03.jpg",
+          "caption": "Chalé Jardim del catálogo: ejemplo, mezcla exacta por cotizar",
+          "url": "https://pousadadotoque.com.br/wp-content/uploads/2017/07/Pousada-do-Toque-reduzidas-2x1-139-710x360.jpg",
+          "sourcePage": "https://pousadadotoque.com.br/chales/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 710,
+          "height": 360
+        },
+        {
+          "path": "assets/images/toque-04.jpg",
+          "caption": "Patio de un chalé Jardim",
+          "url": "https://pousadadotoque.com.br/wp-content/uploads/2020/02/07-710x360.jpg",
+          "sourcePage": "https://pousadadotoque.com.br/chales/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 710,
+          "height": 360
+        },
+        {
+          "path": "assets/images/toque-05.jpg",
+          "caption": "Terraza de chalé; categoría final por confirmar",
+          "url": "https://pousadadotoque.com.br/wp-content/uploads/2016/11/bg-chales.jpg",
+          "sourcePage": "https://pousadadotoque.com.br/chales/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1437,
+          "height": 707
+        },
+        {
+          "path": "assets/images/toque-06.jpg",
+          "caption": "Piscina compartida de la pousada",
+          "url": "https://pousadadotoque.com.br/wp-content/uploads/2017/07/Pousada-do-Toque-reduzidas-1x1-10.jpg",
+          "sourcePage": "https://pousadadotoque.com.br/a-pousada/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "path": "assets/images/toque-07.jpg",
+          "caption": "Restaurante de la pousada",
+          "url": "https://pousadadotoque.com.br/wp-content/uploads/2017/07/Pousada-do-Toque-reduzidas-2x1-145.jpg",
+          "sourcePage": "https://pousadadotoque.com.br/a-pousada/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1500,
+          "height": 750
+        }
+      ],
+      "global": 85.3,
+      "totals": {
+        "low": 3591.09,
+        "prob": 3920.18,
+        "high": 4257.27
+      },
+      "display": {
+        "low": 3590,
+        "prob": 3920,
+        "high": 4260
+      },
+      "groupDisplay": {
+        "low": 35900,
+        "prob": 39200,
+        "high": 42600
+      },
+      "gate": "Admitido condicional: coste probable ≤US$4.000 y ruta ≤1 escala; precio de diez plazas, inventario y condiciones a cerrar antes de reservar.",
+      "metricData": {
+        "beach": "Praia do Toque",
+        "air": "31 °C día / 22.4 °C noche",
+        "water": "≈28 °C · referencia histórica",
+        "wind": "14–20 km/h estimado",
+        "rain": "≈91 mm/mes · referencia enero",
+        "climate": "Índice compuesto para enero",
+        "service": "Mezcla de categorías dobles por cotizar",
+        "foodQuality": "Boutique con desayuno",
+        "foodComfort": "Incluye logística de todas las comidas",
+        "quiet": "Juicio de conveniencia familiar",
+        "travel": "ROS · 15.5 h puerta a puerta",
+        "tennis": "Tradicional mencionado; detalles pendientes",
+        "value": "~US$3,920 por persona"
+      },
+      "rank": 3
+    },
+    {
+      "id": "kiseki",
+      "name": "Casa Kiseki · Naluum Residence",
+      "subtitle": "La oportunidad de valor, con cocinera y limpieza",
+      "country": "Brasil",
+      "region": "Marceneiro · Rota dos Milagres",
+      "beach": "Praia do Marceneiro",
+      "type": "casa",
+      "mode": "Casa + servicios contratados",
+      "ai": false,
+      "dates": "12–20 enero 2027",
+      "nights": 8,
+      "occupancy": "4 suites · 2+2+3+3 · 8 camas",
+      "room": "Casa de 150 m² · piscina privada",
+      "priceStatus": "Vuelo observado; tarifa casa en enero estimada",
+      "summary": "Una casa frente al mar con capacidad oficial para diez. Se añade cocinera para desayunos/almuerzos y limpieza diaria: buen valor sin improvisar todas las comidas.",
+      "pros": [
+        "Camas y máximo diez adultos expresamente publicados.",
+        "Piscina propia, playa directa y seguridad del condominio.",
+        "Cocinera y limpieza presupuestadas; probable por debajo de US$3.000."
+      ],
+      "cons": [
+        "150 m² puede sentirse justo para diez adultos.",
+        "La cocinera termina a las 15; las cenas requieren organización.",
+        "Pocas reseñas de la unidad y tenis reglamentario sin confirmar."
+      ],
+      "scores": {
+        "beach": 91,
+        "air": 83,
+        "water": 96,
+        "wind": 86,
+        "rain": 77,
+        "service": 76,
+        "foodQuality": 82,
+        "foodComfort": 80,
+        "quiet": 89,
+        "travel": 68,
+        "tennis": 55,
+        "value": 96,
+        "climate": 85.05,
+        "food": 81.0
+      },
+      "climate": {
+        "air": 31,
+        "night": 22.4,
+        "water": 28,
+        "wind": 17,
+        "rain": 91.2,
+        "humidity": "Sin normal homogénea local verificada",
+        "notes": "Enero 5–25: calor de playa y agua cálida. Se usa Maceió como proxy regional, a unos 95 km: 91,2 mm es la normal de enero, no los 62,2 mm registrados en 2025. Viento 14–20 km/h: estimación regional de planificación, sin normal local comparable; incertidumbre mayor que Aruba. Mareas y tormentas pueden cambiar el baño. No es pronóstico de enero 2027.",
+        "refs": [
+          "maceio-normal",
+          "maceio-sea",
+          "milagres-tourism"
+        ],
+        "rainDisplay": "≈91",
+        "windDisplay": "14–20",
+        "waterDisplay": "≈28"
+      },
+      "flight": {
+        "airport": "ROS",
+        "route": "ROS → GIG → MCZ",
+        "airline": "GOL",
+        "out": "12 ene · ROS 03:00 → MCZ 11:45 · 8h45 · GIG 3h20 · G37723 / G32076",
+        "back": "20 ene · MCZ 17:30 → ROS 01:15 del 21 ene · 7h45 · GIG 1h30 · G32079 / G37722",
+        "stops": 1,
+        "doorHours": 15.5,
+        "transferMin": 120,
+        "transferKm": 114,
+        "fare": "US$1.292 ida/vuelta observado para un adulto. La tarifa concreta no quedó identificada; se agrega US$80 de provisión para Light/carry-on de 12 kg y bolso personal. No se paga selección premium. Confirmar diez plazas juntas y conexión protegida.",
+        "refs": [
+          "flights",
+          "gol"
+        ]
+      },
+      "costs": [
+        {
+          "label": "Vuelo ida y vuelta",
+          "low": 1292,
+          "prob": 1292,
+          "high": 1390,
+          "note": "GOL observado para un adulto.",
+          "refs": [
+            "flights"
+          ]
+        },
+        {
+          "label": "Carry-on + bolso personal",
+          "low": 40,
+          "prob": 80,
+          "high": 100,
+          "note": "Provisión Light.",
+          "refs": [
+            "gol"
+          ]
+        },
+        {
+          "label": "Casa completa · ocho noches",
+          "low": 640,
+          "prob": 760,
+          "high": 880,
+          "note": "Modelo US$800 / 950 / 1.100 por noche para toda la casa. El desde R$1.164 sin fecha no se usa como tarifa enero.",
+          "refs": [
+            "kiseki"
+          ]
+        },
+        {
+          "label": "Cocinera + limpieza diarias",
+          "low": 60,
+          "prob": 80,
+          "high": 100,
+          "note": "Publicadas R$250 + R$150/día; a R$5,5 son US$58/persona por ocho días. Provisión mayor para ajuste enero.",
+          "refs": [
+            "kiseki"
+          ]
+        },
+        {
+          "label": "Comida, bebidas y cenas fuera",
+          "low": 330,
+          "prob": 400,
+          "high": 480,
+          "note": "Compras y almuerzos preparados + cenas en restaurantes; comida no incluida en el personal.",
+          "refs": []
+        },
+        {
+          "label": "Gestión de compras",
+          "low": 20,
+          "prob": 25,
+          "high": 30,
+          "note": "Administrador cobra 10% sobre compras; provisión de US$250 grupo, no sobre todo el presupuesto de restaurantes.",
+          "refs": [
+            "kiseki"
+          ]
+        },
+        {
+          "label": "Transfer MCZ ↔ casa",
+          "low": 80,
+          "prob": 100,
+          "high": 120,
+          "note": "Ida/vuelta privado estimado.",
+          "refs": []
+        },
+        {
+          "label": "Movilidad local para cenas",
+          "low": 20,
+          "prob": 40,
+          "high": 60,
+          "note": "Bolsa de taxis; mercado publicado a 500 m.",
+          "refs": []
+        },
+        {
+          "label": "Impuestos / cargos pendientes",
+          "low": 60,
+          "prob": 80,
+          "high": 100,
+          "note": "Provisión; tarifa e inclusiones enero requieren consulta.",
+          "refs": []
+        },
+        {
+          "label": "Traslado local Rosario ↔ ROS",
+          "low": 20,
+          "prob": 20,
+          "high": 20,
+          "note": "Ida/vuelta estimado.",
+          "refs": []
+        },
+        {
+          "label": "Margen operativo",
+          "low": 40,
+          "prob": 100,
+          "high": 120,
+          "note": "Variación y consumos normales.",
+          "refs": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dónde dormimos",
+          "text": "Capacidad oficial de diez: una suite king, una queen y dos suites con tres camas individuales cada una (incluida auxiliar/twin publicada). Ocho camas, sin usar sofá de salón. Las cuatro suites permiten 2+2+3+3. Casa de 150 m² y piscina privada dentro de Naluum, con piscina común frente al mar. No se toma la cifra de once de algunos titulares secundarios. Debe reconfirmarse el estado de las camas auxiliares para adultos.",
+          "refs": [
+            "kiseki",
+            "kiseki-airbnb"
+          ]
+        },
+        {
+          "title": "Precio y servicios que hacen viable el formato",
+          "text": "No hay precio específico de enero confirmado: se estima casa entera a US$950/noche, ocho noches. El precio desde R$1.164 es genérico y no se usa para vender enero barato. Cocinera R$250/día y camarera R$150/día, ambas 07–15, más 10% de gestión sobre compras. El administrador coordina menú y compras; comestibles y cenas van en partidas separadas. Reconfirmar ocho días de personal y check-in: llegada MCZ al mediodía permite llegar dentro de la franja publicada 14–20.",
+          "refs": [
+            "kiseki"
+          ]
+        },
+        {
+          "title": "Playa y entorno",
+          "text": "Acceso directo a Marceneiro, arena clara y arrecife costero. Bajamar reduce profundidad; elegir la marea adecuada para baño. La piscina común frente al mar permite descansar sin salir del condominio. Mercado a 500 m publicado; Vilinha y comidas próximas. La transparencia cambia con lluvias y marea; imágenes de buen tiempo no equivalen a cada día de enero.",
+          "refs": [
+            "kiseki",
+            "milagres-tourism"
+          ]
+        },
+        {
+          "title": "Cómo comeremos",
+          "text": "Desayuno y almuerzo preparados en casa con compras acordadas; cenas fuera o sencillas. La cocinera no cubre la cena, por eso US$400/persona incluye restaurantes y bebidas, además de US$40 de movilidad local. Pedir reservas para diez y definir un menú familiar antes del viaje evita convertir la casa en trabajo diario. Cocina equipada y parrilla, sin necesidad de contratar bartender ni excursiones.",
+          "refs": [
+            "kiseki"
+          ]
+        },
+        {
+          "title": "Servicio, ruido y búsqueda adversarial",
+          "text": "Limpieza y cocinera adicionales mejoran la experiencia, pero no constituyen un hotel con servicio 24 horas a habitación. Pocas reseñas de esta unidad: se encontró referencia 5,0 con seis opiniones de propiedad; las reseñas totales del anfitrión no se suman. El anuncio admite eventos y establece silencio 20–09; confirmar que no haya evento vecino y las condiciones de uso de espacios comunes. Acceso y portería 24 horas publicados.",
+          "refs": [
+            "kiseki",
+            "kiseki-airbnb"
+          ]
+        },
+        {
+          "title": "Tenis y transfer",
+          "text": "El condominio anuncia tenis y beach tennis. La fotografía muestra una instalación reducida: no se acreditan medidas reglamentarias, superficie, iluminación, cantidad ni costo. Si el adulto tenista quiere entrenar partidos completos, esta limitación puede descartarla. Transfer desde MCZ: unos 105–115 km, alrededor de 1h50–2h; tráfico puede excederlo. Se penaliza logística y debe cotizarse operador privado.",
+          "refs": [
+            "kiseki"
+          ]
+        },
+        {
+          "title": "Seguridad y entrada",
+          "text": "Brasil requiere precauciones por criminalidad. Este plan utiliza propiedad con acceso controlado y transfer privado contratado; no se extrapola la seguridad del alojamiento a todo el destino. Pasaporte argentino o documento Mercosur admitido según condiciones oficiales. No se identificó seguro médico general obligatorio: el opcional no integra la base. La alerta vigente sobre bebidas adulteradas aconseja consumir marcas selladas en establecimientos formales. Revalidar entrada y avisos antes de pagar.",
+          "refs": [
+            "brazil-safety",
+            "brazil-entry",
+            "brazil-arg"
+          ]
+        }
+      ],
+      "conditions": [
+        "Obtener precio enero de casa completa y disponibilidad real.",
+        "Confirmar camas auxiliares aptas para adultos y personal ocho días.",
+        "Si tenis es decisivo, verificar dimensiones y operación de la cancha."
+      ],
+      "photos": [
+        {
+          "path": "assets/images/kiseki-01.jpg",
+          "caption": "Acceso directo a Marceneiro desde el condominio",
+          "url": "https://www.almamilagres.com.br/image/d235/6964f91ca29b8c7455271227/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/kiseki-02.jpg",
+          "caption": "Vista aérea de la piscina común y playa",
+          "url": "https://www.almamilagres.com.br/image/d235/6964f900a175a718f08b74ba/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/kiseki-03.jpg",
+          "caption": "Patio y piscina privada de Casa Kiseki",
+          "url": "https://www.almamilagres.com.br/image/d235/691e6888b51c010d35164a50/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/kiseki-04.jpg",
+          "caption": "Suite de la casa",
+          "url": "https://www.almamilagres.com.br/image/d235/691e66fdf0539da3419ce4c7/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/kiseki-05.jpg",
+          "caption": "Camas individuales y auxiliar publicada",
+          "url": "https://www.almamilagres.com.br/image/d235/691e67caf6339df033431450/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/kiseki-06.jpg",
+          "caption": "Cocina equipada de la unidad",
+          "url": "https://www.almamilagres.com.br/image/d235/6924f36d3e2d23699cdfaa86/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/kiseki-07.jpg",
+          "caption": "Piscina común frente al mar",
+          "url": "https://www.almamilagres.com.br/image/d235/6964f91c3ddad96656972b0f/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "path": "assets/images/kiseki-08.jpg",
+          "caption": "Instalación anunciada como tenis; tamaño reglamentario sin verificar",
+          "url": "https://www.almamilagres.com.br/image/d235/6964f91c3edca93722f8f93e/casa-milagres-frente-mar-condominio-pe-na-areia?ver=&width=1200&height=800",
+          "sourcePage": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "global": 82.0,
+      "totals": {
+        "low": 2602,
+        "prob": 2977,
+        "high": 3400
+      },
+      "display": {
+        "low": 2600,
+        "prob": 2980,
+        "high": 3400
+      },
+      "groupDisplay": {
+        "low": 26000,
+        "prob": 29800,
+        "high": 34000
+      },
+      "gate": "Admitido condicional: coste probable ≤US$4.000 y ruta ≤1 escala; precio de diez plazas, inventario y condiciones a cerrar antes de reservar.",
+      "metricData": {
+        "beach": "Praia do Marceneiro",
+        "air": "31 °C día / 22.4 °C noche",
+        "water": "≈28 °C · referencia histórica",
+        "wind": "14–20 km/h estimado",
+        "rain": "≈91 mm/mes · referencia enero",
+        "climate": "Índice compuesto para enero",
+        "service": "Casa de 150 m² · piscina privada",
+        "foodQuality": "Casa + servicios contratados",
+        "foodComfort": "Incluye logística de todas las comidas",
+        "quiet": "Juicio de conveniencia familiar",
+        "travel": "ROS · 15.5 h puerta a puerta",
+        "tennis": "Medidas reglamentarias pendientes",
+        "value": "~US$2,980 por persona"
+      },
+      "rank": 4
+    },
+    {
+      "id": "trs",
+      "name": "TRS Coral",
+      "subtitle": "La elección especializada para jugar al tenis",
+      "country": "México",
+      "region": "Costa Mujeres · Quintana Roo",
+      "beach": "Costa Mujeres",
+      "type": "resort",
+      "mode": "All Inclusive · sólo adultos",
+      "ai": true,
+      "dates": "13–21 enero 2027",
+      "nights": 8,
+      "occupancy": "5 Junior Suites dobles · 2+2+2+2+2",
+      "room": "Junior Suite Garden View · 66 m²",
+      "priceStatus": "Vuelo observado; cinco suites enero estimadas",
+      "summary": "Instalaciones de tenis destacadas y habitaciones amplias para adultos. La experiencia de comida y reservas es mixta; sólo tiene sentido si el tenis pesa mucho para la familia.",
+      "pros": [
+        "Ocho canchas de tenis dentro del complejo.",
+        "Adults Only y Junior Suites de 66 m².",
+        "Una hora diaria de cancha por habitación publicada."
+      ],
+      "cons": [
+        "Reseñas repetidas sobre reservas de cenas y servicio irregular.",
+        "Nortes en enero pueden traer oleaje y banderas rojas.",
+        "Viaje puerta a puerta largo y precio cerca del techo."
+      ],
+      "scores": {
+        "beach": 87,
+        "air": 92,
+        "water": 89,
+        "wind": 79,
+        "rain": 78,
+        "service": 78,
+        "foodQuality": 77,
+        "foodComfort": 73,
+        "quiet": 83,
+        "travel": 61,
+        "tennis": 97,
+        "value": 74,
+        "climate": 84.45,
+        "food": 75.0
+      },
+      "climate": {
+        "air": 27.2,
+        "night": 20,
+        "water": 26.1,
+        "wind": 17,
+        "rain": 65,
+        "humidity": "Sin normal homogénea local verificada",
+        "notes": "Enero 5–25: aire típico 27 °C, noches alrededor de 20 °C y mar 26 °C. Lluvia de planificación 50–80 mm y viento 14–20 km/h aproximado; los nortes producen episodios mucho más ventosos y frescos que el promedio. Hay experiencias invernales con banderas rojas. Sargazo no puede descartarse: enero 2026 fue regionalmente anómalo.",
+        "refs": [
+          "cancun-climate",
+          "trs-winter",
+          "sargassum"
+        ],
+        "rainDisplay": "50–80",
+        "windDisplay": "14–20",
+        "waterDisplay": "≈26,1"
+      },
+      "flight": {
+        "airport": "ROS",
+        "route": "ROS → PUJ → CUN",
+        "airline": "Arajet",
+        "out": "13 ene · ROS 04:00 → CUN 15:46 · 13h46 · PUJ 2h37 · DM6677 / DM7002",
+        "back": "21 ene · CUN 12:35 → ROS 02:50 del 22 ene · 12h15 · PUJ 1h31 · DM7007 / DM6676",
+        "stops": 1,
+        "doorHours": 20,
+        "transferMin": 90,
+        "transferKm": 55,
+        "fare": "US$985 RT directo con Arajet observado para un adulto. Basic no incluye carry-on; se agrega US$150 estimado para 12 kg de cabina + personal 6 kg. Asiento estándar. El total es largo aun con una única escala.",
+        "refs": [
+          "flights",
+          "arajet",
+          "arajet-fare"
+        ]
+      },
+      "costs": [
+        {
+          "label": "Vuelo ida y vuelta",
+          "low": 985,
+          "prob": 985,
+          "high": 1090,
+          "note": "Arajet observado para un adulto.",
+          "refs": [
+            "flights"
+          ]
+        },
+        {
+          "label": "Carry-on + bolso personal",
+          "low": 100,
+          "prob": 150,
+          "high": 190,
+          "note": "Suplemento estimado; Classic o equivalente.",
+          "refs": [
+            "arajet"
+          ]
+        },
+        {
+          "label": "Cinco suites + All Inclusive",
+          "low": 2320,
+          "prob": 2560,
+          "high": 2800,
+          "note": "Modelo US$580 / 640 / 700 por doble/noche × 8. Se supone tarifa final con impuestos hoteleros; no se verificó un paquete enero de cinco unidades.",
+          "refs": [
+            "trs-rate"
+          ]
+        },
+        {
+          "label": "Transfer CUN ↔ TRS",
+          "low": 60,
+          "prob": 75,
+          "high": 100,
+          "note": "Privado ida/vuelta estimado; 60–90 min prudentes por sentido.",
+          "refs": []
+        },
+        {
+          "label": "VISITAX",
+          "low": 20,
+          "prob": 20,
+          "high": 25,
+          "note": "Provisión USD; tasa oficial en MXN a reconfirmar para 2027.",
+          "refs": [
+            "visitax"
+          ]
+        },
+        {
+          "label": "Tasa ambiental municipal",
+          "low": 25,
+          "prob": 30,
+          "high": 45,
+          "note": "Provisión correspondiente al municipio Isla Mujeres; importe final pendiente.",
+          "refs": []
+        },
+        {
+          "label": "Traslado local Rosario ↔ ROS",
+          "low": 20,
+          "prob": 20,
+          "high": 20,
+          "note": "Ida/vuelta estimado.",
+          "refs": []
+        },
+        {
+          "label": "Margen operativo",
+          "low": 50,
+          "prob": 100,
+          "high": 150,
+          "note": "Ajustes; cabaret, spa y clases opcionales excluidos.",
+          "refs": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dónde dormimos y límite de precio",
+          "text": "Cinco Junior Suite Garden View dobles de 66 m²; no se utilizan fotos Swim Out para describir la categoría presupuestada. Tarifa enero estimada US$640 por pareja/noche, todos los impuestos hoteleros supuestamente incluidos. La referencia US$631 es una mediana orientativa de noches sueltas, no un paquete de ocho noches ni prueba de cinco habitaciones. Con otros costos probables, el hotel debe cerrar como máximo en unos US$26.200 por el grupo (US$655 por doble/noche) para respetar US$40.000.",
+          "refs": [
+            "trs-room",
+            "trs-rate"
+          ]
+        },
+        {
+          "title": "Tenis: el motivo para considerarlo",
+          "text": "Rafa Nadal Tennis Center dentro del complejo: ocho canchas. El hotel publica una hora gratis diaria por habitación, así que cinco habitaciones representan hasta cinco horas-cancha del grupo, sujeto a reserva. Textos antiguos/fotos describen arcilla y cinco exteriores más tres semicubiertas; el sitio inglés actual dice superficie dura. Esta contradicción queda abierta: confirmar superficie y disponibilidad. Iluminación, equipo, clases y horas extra requieren consulta; las clases no integran la base.",
+          "refs": [
+            "nadal",
+            "trs"
+          ]
+        },
+        {
+          "title": "Playa de enero",
+          "text": "Arena blanca y playa extensa del complejo. Agua cálida, con viento y frentes de norte capaces de producir banderas rojas; una experiencia de invierno reporta varios días sin baño. La foto de mar calmo no garantiza el estado semanal. USF documentó alta actividad regional de sargazo en enero 2026: tampoco se presume ausencia en 2027.",
+          "refs": [
+            "trs",
+            "cancun-climate",
+            "trs-winter",
+            "sargassum"
+          ]
+        },
+        {
+          "title": "Comida: oferta amplia, experiencia irregular",
+          "text": "Restaurantes exclusivos TRS y oferta del complejo en el AI. Para diez, coordinar las cenas con e-butler antes/luego del check-in. Experiencias de 2026 elogian restaurantes y personal, pero otras describen reservas difíciles, horarios rígidos y room service débil. Se penaliza comodidad 73 y calidad 77. La página oficial y relatos difieren sobre necesidad de reserva; se usa la hipótesis conservadora. Chic Cabaret, tratamientos y clases son opcionales y no se incluyen. No se promete room service gratuito sin reconfirmar condiciones.",
+          "refs": [
+            "trs",
+            "trs-positive",
+            "trs-negative",
+            "trs-ta"
+          ]
+        },
+        {
+          "title": "Búsqueda adversarial y por qué no gana el AI",
+          "text": "Una reseña crítica de 2026 relata mantenimiento deficiente y mala respuesta a pedidos; otra positiva reciente destaca buena atención y cocina. Un relato de enfermedad es una alegación individual sin verificación médica, no evidencia de intoxicación general. Reservas y demora sí aparecen en más de una experiencia. El ambiente adulto y el tenis sostienen una alternativa especializada, pero la familia debería descartarla si prioriza cero fricción gastronómica. No se toma la categoría de lujo como prueba de consistencia.",
+          "refs": [
+            "trs-negative",
+            "trs-positive",
+            "trs-winter",
+            "trs-ta"
+          ]
+        },
+        {
+          "title": "Seguridad, tasas y traslado",
+          "text": "Quintana Roo: aumentar precauciones según aviso oficial. Resort cerrado y transfer privado; documentación argentina sin visa turística en condiciones normales. VISITAX y tasa ambiental se provisionan aparte. El hotel publicita un traslado de 30 minutos desde CUN; por ubicación a unos 55 km se presupuestan 60–90 minutos, reconfirmables con operador. No se usa el tiempo comercial como puerta a puerta real.",
+          "refs": [
+            "mex-safety",
+            "mex-entry",
+            "visitax",
+            "trs"
+          ]
+        }
+      ],
+      "conditions": [
+        "Hotel final con impuestos ≤US$26.200 para cinco suites / ocho noches.",
+        "Confirmar cenas para diez sin horarios imposibles y servicio de habitaciones.",
+        "Resolver superficie de canchas, reservas, beneficios y transfer."
+      ],
+      "photos": [
+        {
+          "path": "assets/images/trs-01.jpg",
+          "caption": "Vista de TRS Coral y el frente de playa",
+          "url": "https://www.palladiumhotelgroup.com/content/dam/palladium/images/hoteles/mexico/costa-mujeres/hotel/fachadas/trs-coral-hotel/trs-coral-costa-mujeres-slider.jpg?preferwebp=true&quality=65",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 960
+        },
+        {
+          "path": "assets/images/trs-02.jpg",
+          "caption": "Playa del complejo compartido en Costa Mujeres",
+          "url": "https://www.palladiumhotelgroup.com/adobe/dynamicmedia/deliver/dm-aid--d281dce4-448c-4627-9088-20ca6df32aec/grand-palladium-select-costa-mujeres-aerea-costa-mujeres.webp?preferwebp=true&width=1600&quality=65",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/grand-palladium-select-costa-mujeres",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "path": "assets/images/trs-03.jpg",
+          "caption": "Junior Suite Garden View presupuestada",
+          "url": "https://www.palladiumhotelgroup.com/content/dam/palladium/images/hoteles/mexico/costa-mujeres/habitaciones/trs-coral/junior-suite-garden-lagoon-view/TRS-CORAL-JUNIOR-SUITE-01-MG-16001.jpg?preferwebp=true&quality=65",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel/rooms",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/trs-04.jpg",
+          "caption": "Baño de la Junior Suite Garden View",
+          "url": "https://www.palladiumhotelgroup.com/content/dam/palladium/images/hoteles/mexico/costa-mujeres/habitaciones/trs-coral/junior-suite-garden-lagoon-view/TRS-CORAL-JUNIOR-SUITE-05-MG-15711.jpg?preferwebp=true&quality=65",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel/rooms",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1201
+        },
+        {
+          "path": "assets/images/trs-05.jpg",
+          "caption": "Terraza de la Junior Suite Garden View",
+          "url": "https://www.palladiumhotelgroup.com/content/dam/palladium/images/hoteles/mexico/costa-mujeres/habitaciones/trs-coral/junior-suite-garden-lagoon-view/TRS-CORAL-JUNIOR-SUITE-07-MG-1681.jpg?preferwebp=true&quality=65",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel/rooms",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/trs-06.jpg",
+          "caption": "Piscina del área TRS",
+          "url": "https://www.palladiumhotelgroup.com/content/dam/palladium/images/hoteles/mexico/costa-mujeres/hotel/piscinas/trs-coral-hotel/TRS-Coral-Hotel-Piscina8.jpg?format=webp",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/trs-07.jpg",
+          "caption": "Restaurante de la oferta TRS",
+          "url": "https://www.palladiumhotelgroup.com/content/dam/palladium/images/hoteles/mexico/costa-mujeres/gastronomia/helios/restarurante-TRS-CORAL-HELIOS-BEACH-CLUB-DIA.jpg",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/trs-08.jpg",
+          "caption": "Rafa Nadal Tennis Center del complejo; foto de catálogo",
+          "url": "https://www.palladiumhotelgroup.com/adobe/dynamicmedia/deliver/dm-aid--da6b90e3-07e6-4795-983c-7d5329d7d6d9/grand-palladium-costa-mujeres-rafa-nadal4.webp?preferwebp=true&width=1600&quality=65",
+          "sourcePage": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/grand-palladium-select-costa-mujeres",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1600,
+          "height": 960
+        }
+      ],
+      "global": 81.0,
+      "totals": {
+        "low": 3580,
+        "prob": 3940,
+        "high": 4420
+      },
+      "display": {
+        "low": 3580,
+        "prob": 3940,
+        "high": 4420
+      },
+      "groupDisplay": {
+        "low": 35800,
+        "prob": 39400,
+        "high": 44200
+      },
+      "gate": "Admitido condicional: coste probable ≤US$4.000 y ruta ≤1 escala; precio de diez plazas, inventario y condiciones a cerrar antes de reservar.",
+      "metricData": {
+        "beach": "Costa Mujeres",
+        "air": "27.2 °C día / 20 °C noche",
+        "water": "≈26,1 °C · referencia histórica",
+        "wind": "14–20 km/h estimado",
+        "rain": "50–80 mm/mes · referencia enero",
+        "climate": "Índice compuesto para enero",
+        "service": "Junior Suite Garden View · 66 m²",
+        "foodQuality": "All Inclusive · sólo adultos",
+        "foodComfort": "Incluye logística de todas las comidas",
+        "quiet": "Juicio de conveniencia familiar",
+        "travel": "ROS · 20 h puerta a puerta",
+        "tennis": "8 canchas · superficie contradictoria",
+        "value": "~US$3,940 por persona"
+      },
+      "rank": 5
+    },
+    {
+      "id": "serrambi",
+      "name": "Serrambi Resort",
+      "subtitle": "Playa de arrecife y media pensión dentro del objetivo",
+      "country": "Brasil",
+      "region": "Serrambi · Pernambuco",
+      "beach": "Península de Serrambi",
+      "type": "resort",
+      "mode": "Media pensión · desayuno y cena",
+      "ai": false,
+      "dates": "12–20 enero 2027",
+      "nights": 8,
+      "occupancy": "5 dobles · 2+2+2+2+2",
+      "room": "Apartamento Superior",
+      "priceStatus": "Vuelo observado; alojamiento de enero estimado",
+      "summary": "Dos orientaciones de playa y piscinas de arrecife. La media pensión simplifica cenas; se suman almuerzos y bebidas. La vuelta de madrugada es su mayor costo humano.",
+      "pros": [
+        "Playa de arrecife con sectores protegidos.",
+        "Desayuno y cena resueltos; presupuesto probable en zona objetivo.",
+        "Cinco dobles evitan compartir camas entre tres."
+      ],
+      "cons": [
+        "Vuelo de regreso 02:25: se pierde sueño en la última noche pagada.",
+        "Llegada al hotel cercana a las 23:00.",
+        "Ruido de obras en reseñas 2026; tenis tradicional ambiguo."
+      ],
+      "scores": {
+        "beach": 90,
+        "air": 84,
+        "water": 95,
+        "wind": 80,
+        "rain": 76,
+        "service": 79,
+        "foodQuality": 77,
+        "foodComfort": 85,
+        "quiet": 84,
+        "travel": 66,
+        "tennis": 45,
+        "value": 84,
+        "climate": 83.55,
+        "food": 81.0
+      },
+      "climate": {
+        "air": 30,
+        "night": 23,
+        "water": 27.7,
+        "wind": 20,
+        "rain": 100,
+        "humidity": "Sin normal homogénea local verificada",
+        "notes": "Proxy Recife/Porto de Galinhas, no estación en el resort: máxima alrededor de 30 °C, agua 27,7 °C y lluvia 90–110 mm en enero según períodos distintos. Viento 17–24 km/h, estimación regional de planificación sin normal local homogénea. Enero suele ser más favorable que el otoño húmedo, pero no implica ocho días secos.",
+        "refs": [
+          "recife-normal",
+          "recife-sea",
+          "porto-tourism"
+        ],
+        "rainDisplay": "90–110",
+        "windDisplay": "17–24",
+        "waterDisplay": "≈27,7"
+      },
+      "flight": {
+        "airport": "ROS",
+        "route": "ROS → GRU → REC",
+        "airline": "LATAM",
+        "out": "12 ene · ROS 12:30 → REC 20:40 · 8h10 · GRU 2h25 · LA8171 / LA3376",
+        "back": "20 ene · REC 02:25 → ROS 11:15 · 8h50 · GRU 2h30 · LA3375 / LA8170",
+        "stops": 1,
+        "doorHours": 15,
+        "transferMin": 120,
+        "transferKm": 78,
+        "fare": "LATAM directo en Google: US$1.290 RT frente a OTA US$1.070; se usa la opción directa. Tarifa exacta sin identificar: US$80 para asegurar cabina Light 12 kg y bolso. Asiento estándar. Salir del resort antes de medianoche del 19: ocho noches cobradas, última parcialmente aprovechada.",
+        "refs": [
+          "flights",
+          "latam"
+        ]
+      },
+      "costs": [
+        {
+          "label": "Vuelo ida y vuelta",
+          "low": 1290,
+          "prob": 1290,
+          "high": 1390,
+          "note": "Reserva directa LATAM observada para un adulto.",
+          "refs": [
+            "flights"
+          ]
+        },
+        {
+          "label": "Carry-on + bolso personal",
+          "low": 40,
+          "prob": 80,
+          "high": 110,
+          "note": "Provisión para Light y equipaje.",
+          "refs": [
+            "latam"
+          ]
+        },
+        {
+          "label": "Cinco dobles + media pensión",
+          "low": 1309.09,
+          "prob": 1454.55,
+          "high": 1672.73,
+          "note": "Modelo R$1.800 / 2.000 / 2.300 por doble/noche × 8; cambio R$5,5/USD supuesto. No cotización enero.",
+          "refs": [
+            "serrambi",
+            "serrambi-room"
+          ]
+        },
+        {
+          "label": "Almuerzos y bebidas",
+          "low": 230,
+          "prob": 300,
+          "high": 400,
+          "note": "Incluye comida de llegada tardía si cena del hotel cerró y comidas de tránsito.",
+          "refs": []
+        },
+        {
+          "label": "Transfer REC ↔ Serrambi",
+          "low": 70,
+          "prob": 90,
+          "high": 130,
+          "note": "Privado ida/vuelta. Llegada nocturna; no traslado improvisado.",
+          "refs": []
+        },
+        {
+          "label": "Impuestos / cargos pendientes",
+          "low": 60,
+          "prob": 80,
+          "high": 100,
+          "note": "Provisión porque no se obtuvo tarifa de enero cerrada.",
+          "refs": []
+        },
+        {
+          "label": "Traslado local Rosario ↔ ROS",
+          "low": 20,
+          "prob": 20,
+          "high": 20,
+          "note": "Ida/vuelta estimado.",
+          "refs": []
+        },
+        {
+          "label": "Margen operativo",
+          "low": 50,
+          "prob": 100,
+          "high": 150,
+          "note": "Ajustes y consumos normales.",
+          "refs": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dónde dormimos y precio",
+          "text": "Cinco Apartamentos Superior dobles, sin utilizar triples para reducir un precio no verificado. Modelo R$2.000 por pareja/noche, desayuno y cena, ocho noches: US$1.455/persona a cambio de planificación R$5,50/USD. Precio enero, impuestos y cinco unidades simultáneas pendientes. A R$5,00/USD el hotel sube unos US$145/persona. No se presupuestan suites ni piscina privada.",
+          "refs": [
+            "serrambi",
+            "serrambi-room"
+          ]
+        },
+        {
+          "title": "Playa y baño",
+          "text": "Península con dos orientaciones; se puede elegir el sector más protegido según viento. Arena clara, arrecife y piscinas naturales. Bajamar deja agua muy baja en partes y puede exponer coral: no todo el frente permite nadar continuamente. Hay sectores con olas y corrientes: seguir señalización. Algas locales pueden aparecer, sin patrón documentado suficientemente grave que elimine enero.",
+          "refs": [
+            "serrambi",
+            "porto-tourism",
+            "recife-sea"
+          ]
+        },
+        {
+          "title": "Comidas y servicio",
+          "text": "Media pensión: desayuno y cena, no All Inclusive. Se agregan US$300/persona para almuerzos, bebidas y tránsito. Buffet práctico para reunir a diez, con menos variedad gastronómica que las propuestas más caras. Atención y limpieza reciben referencias favorables, mezcladas con críticas de buffet y horarios: puntuación moderada, sin equiparar cinco estrellas con servicio perfecto.",
+          "refs": [
+            "serrambi",
+            "serrambi-review"
+          ]
+        },
+        {
+          "title": "Búsqueda adversarial y obras",
+          "text": "Reseñas de 2026 mencionan ruido de trabajos y martillos; otras describen habitaciones cuidadas. No se sabe si esos trabajos terminarán antes de enero: pedir calendario de obras y bloque alejado. Las reproducciones de comentarios Booking son una misma fuente, no varias pruebas independientes. La combinación de posible ruido y vuelo nocturno explica por qué no encabeza el ranking.",
+          "refs": [
+            "serrambi-review"
+          ]
+        },
+        {
+          "title": "Tenis y costo humano del viaje",
+          "text": "El blog oficial menciona tenis tradicional, mientras la página actual destaca beach tennis y polideportiva. No se garantiza cancha reglamentaria ni cantidad, luz o uso incluido: 45/100. REC al resort, 70–80 km y 90–120 minutos estimados; llegada después de las 20:40 implica hotel alrededor de las 23. Regreso 02:25 del día 20 obliga a salir el 19 por la noche: ocho noches pagadas, unas siete de descanso completo más la última parcial.",
+          "refs": [
+            "serrambi-sport",
+            "serrambi-blog",
+            "flights"
+          ]
+        },
+        {
+          "title": "Seguridad y entrada",
+          "text": "Brasil requiere precauciones por criminalidad. Este plan utiliza propiedad con acceso controlado y transfer privado contratado; no se extrapola la seguridad del alojamiento a todo el destino. Pasaporte argentino o documento Mercosur admitido según condiciones oficiales. No se identificó seguro médico general obligatorio: el opcional no integra la base. La alerta vigente sobre bebidas adulteradas aconseja consumir marcas selladas en establecimientos formales. Revalidar entrada y avisos antes de pagar.",
+          "refs": [
+            "brazil-safety",
+            "brazil-entry",
+            "brazil-arg"
+          ]
+        }
+      ],
+      "conditions": [
+        "Cotizar cinco Superior dobles con impuestos y media pensión.",
+        "Confirmar obras resueltas o bloque sin ruido y atención en llegada tardía.",
+        "Aceptar explícitamente la última noche parcial y el regreso de madrugada."
+      ],
+      "photos": [
+        {
+          "path": "assets/images/serrambi-01.jpg",
+          "caption": "Península y dos frentes de playa de Serrambi",
+          "url": "https://static.wixstatic.com/media/7dbacd_5c6c503efea146e2bde0bc2cc1c6efe2~mv2.png",
+          "sourcePage": "https://www.serrambiresort.com/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 750
+        },
+        {
+          "path": "assets/images/serrambi-02.jpg",
+          "caption": "Playa con palmeras junto al resort",
+          "url": "https://static.wixstatic.com/media/e9eb75_f363e666cc1a46d9a3eb7dfe29b6af14~mv2.jpg",
+          "sourcePage": "https://www.serrambiresort.com/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/serrambi-03.jpg",
+          "caption": "Sector de reposeras y mar",
+          "url": "https://static.wixstatic.com/media/e9eb75_784b064828034dc8bd5c6b72cfb325b5~mv2.jpg",
+          "sourcePage": "https://www.serrambiresort.com/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "path": "assets/images/serrambi-04.jpg",
+          "caption": "Piscina común del resort",
+          "url": "https://static.wixstatic.com/media/e9eb75_ddbf87a137fa4b8ab16864b2e2b68497~mv2.jpg",
+          "sourcePage": "https://www.serrambiresort.com/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 933,
+          "height": 1400
+        },
+        {
+          "path": "assets/images/serrambi-05.jpg",
+          "caption": "Apartamento Superior del catálogo oficial",
+          "url": "https://static.wixstatic.com/media/e9eb75_c0a986e08bd949469783cca488c67618~mv2.jpg",
+          "sourcePage": "https://www.serrambiresort.com/quartos/apartamento-superior",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "path": "assets/images/serrambi-06.jpg",
+          "caption": "Otra vista del Apartamento Superior",
+          "url": "https://static.wixstatic.com/media/e9eb75_385ad96f0f044693a78f8a2a20628fbc~mv2.jpg",
+          "sourcePage": "https://www.serrambiresort.com/quartos/apartamento-superior",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "path": "assets/images/serrambi-07.jpg",
+          "caption": "Buffet del resort",
+          "url": "https://static.wixstatic.com/media/e9eb75_ef9c7b254ed84b41984ad0b919dc8cff~mv2.jpg",
+          "sourcePage": "https://www.serrambiresort.com/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 960,
+          "height": 960
+        },
+        {
+          "path": "assets/images/serrambi-08.jpg",
+          "caption": "Oferta gastronómica dentro del resort",
+          "url": "https://static.wixstatic.com/media/35975ca1f54a4be497815c8c3a8a072d.jpg",
+          "sourcePage": "https://www.serrambiresort.com/",
+          "consulted": "2026-10-07",
+          "captureDate": "No publicada",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "global": 80.1,
+      "totals": {
+        "low": 3069.09,
+        "prob": 3414.55,
+        "high": 3972.73
+      },
+      "display": {
+        "low": 3070,
+        "prob": 3410,
+        "high": 3970
+      },
+      "groupDisplay": {
+        "low": 30700,
+        "prob": 34100,
+        "high": 39700
+      },
+      "gate": "Admitido condicional: coste probable ≤US$4.000 y ruta ≤1 escala; precio de diez plazas, inventario y condiciones a cerrar antes de reservar.",
+      "metricData": {
+        "beach": "Península de Serrambi",
+        "air": "30 °C día / 23 °C noche",
+        "water": "≈27,7 °C · referencia histórica",
+        "wind": "17–24 km/h estimado",
+        "rain": "90–110 mm/mes · referencia enero",
+        "climate": "Índice compuesto para enero",
+        "service": "Apartamento Superior",
+        "foodQuality": "Media pensión · desayuno y cena",
+        "foodComfort": "Incluye logística de todas las comidas",
+        "quiet": "Juicio de conveniencia familiar",
+        "travel": "ROS · 15 h puerta a puerta",
+        "tennis": "Tradicional sin ficha operativa",
+        "value": "~US$3,410 por persona"
+      },
+      "rank": 6
+    }
+  ],
+  "awards": [
+    {
+      "title": "Mejor opción global",
+      "english": "Best Overall",
+      "id": "ibero",
+      "metric": "global"
+    },
+    {
+      "title": "Mejor valor",
+      "english": "Best Value",
+      "id": "kiseki",
+      "metric": "value"
+    },
+    {
+      "title": "Mejor playa",
+      "english": "Best Beach",
+      "id": "aruba",
+      "metric": "beach"
+    },
+    {
+      "title": "Mejor clima de enero",
+      "english": "Best January Weather",
+      "id": "ibero",
+      "metric": "climate"
+    },
+    {
+      "title": "Comer con menos logística",
+      "english": "Best Food Convenience",
+      "id": "ibero",
+      "metric": "foodComfort"
+    },
+    {
+      "title": "Mejor servicio y alojamiento",
+      "english": "Best Service",
+      "id": "ibero",
+      "metric": "service"
+    },
+    {
+      "title": "Viaje más fácil",
+      "english": "Easiest Trip",
+      "id": "ibero",
+      "metric": "travel"
+    },
+    {
+      "title": "Mejor tenis",
+      "english": "Best Tennis",
+      "id": "trs",
+      "metric": "tennis"
+    },
+    {
+      "title": "Mejor All Inclusive",
+      "english": "Best All Inclusive",
+      "id": "ibero",
+      "metric": "global"
+    },
+    {
+      "title": "Mejor sin All Inclusive",
+      "english": "Best Non-All-Inclusive",
+      "id": "aruba",
+      "metric": "global"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ros",
+      "title": "Aeropuerto Rosario · destinos",
+      "url": "https://aeropuertorosario.com/aeropuerto/destinos/",
+      "backs": "Conectividad publicada. Los horarios de enero se contrastaron en Google Flights.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "flights",
+      "title": "Google Flights · consultas públicas",
+      "url": "https://www.google.com/travel/flights?hl=es&curr=USD",
+      "backs": "Selecciones completas de ida y vuelta para un adulto en enero de 2027; capturas de valores transcritas en data/observaciones.json. No prueba diez plazas.",
+      "kind": "Buscador aéreo",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "puj-flight",
+      "title": "Arajet vía Google Flights · 15–23 enero",
+      "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpIEgoyMDI3LTAxLTE1IiAKA1JPUxIKMjAyNy0wMS0xNRoDUFVKKgJETTIENjY3NygBag0IAhIJL20vMDJ0YjE3cgcIARIDUFVKGkgSCjIwMjctMDEtMjMiIAoDUFVKEgoyMDI3LTAxLTIzGgNST1MqAkRNMgQ2Njc2KAFqBwgBEgNQVUpyDQgCEgkvbS8wMnRiMTdAAUgBcAGCAQsI____________AZgBAQ&hl=es&curr=USD",
+      "backs": "US$1.230 ida y vuelta, directo ROS–PUJ, un adulto, impuestos incluidos. Carry-on adicional sin cotizar.",
+      "kind": "Cotización enero",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "puj-book",
+      "title": "Iberostar · motor de reserva · enero",
+      "url": "https://booking.iberostar.com/Reservations/availability?codiconc=73&conccodi=76&fechafin=23/01/2027&fechaini=15/01/2027&idiocodi=1&idiomercodi=es&monecodi=USD&numerohabitaciones=1&adultohab0=3&ninohab0=0&bebehab0=0&numeropersonas0=3",
+      "backs": "15–23 enero: doble US$4.990 y triple US$6.861 por ocho noches, impuestos incluidos, prepago. Precio individual, no tarifa de grupo.",
+      "kind": "Cotización enero",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "ba-flight",
+      "title": "EZE–Aruba · itinerario observado",
+      "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhphEgoyMDI3LTAxLTEzIiAKA0VaRRIKMjAyNy0wMS0xMxoDUFVKKgJETTIENjI2OSIfCgNQVUoSCjIwMjctMDEtMTMaA0FVQSoCRE0yAzcwMGoHCAESA0VaRXIHCAESA0FVQRpgEgoyMDI3LTAxLTIxIh8KA0FVQRIKMjAyNy0wMS0yMRoDUFRZKgJDTTIDODc3Ih8KA1BUWRIKMjAyNy0wMS0yMRoDRVpFKgJDTTIDMjE5agcIARIDQVVBcgcIARIDRVpFQAFIAXABggELCP___________wGYAQE&hl=es&curr=USD",
+      "backs": "13–21 enero: Arajet/Copa US$1.046 por adulto. Traslado Rosario–EZE y noche previa se estiman aparte.",
+      "kind": "Cotización enero",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "arajet",
+      "title": "Arajet · equipaje",
+      "url": "https://www.arajet.com/es-us/equipaje",
+      "backs": "Artículo personal de 6 kg; cabina 12 kg con paquete adecuado o suplemento. Basic no incluye carry-on.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "arajet-fare",
+      "title": "Arajet · paquetes de tarifas",
+      "url": "https://www.arajet.com/es-ar/bundles",
+      "backs": "Basic, Classic y extras. Asiento estándar; las provisiones de equipaje de este informe no son cotizaciones.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "gol",
+      "title": "GOL · equipajes",
+      "url": "https://www.voegol.com.br/pt/bagagens",
+      "backs": "Carry-on de hasta 12 kg en las tarifas que lo incluyen; Basic puede excluirlo. Se reserva margen para Light.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "latam",
+      "title": "LATAM · equipaje",
+      "url": "https://www.latamairlines.com/ar/es/experiencia/prepara-tu-viaje/equipaje",
+      "backs": "Cabina hasta 12 kg según tarifa; Basic y Light tienen inclusiones distintas.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "copa",
+      "title": "Copa · familias de tarifas",
+      "url": "https://help.copaair.com/hc/en-us/articles/360051189074-What-are-the-fare-classes-Copa-Airlines-offers",
+      "backs": "Economy Basic y equipaje de cabina de 10 kg. Comparación secundaria desde EZE.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "ibero",
+      "title": "Iberostar Hacienda Dominicus · oficial",
+      "url": "https://www.iberostar.com/hoteles/bayahibe/iberostar-selection-hacienda-dominicus/",
+      "backs": "Playa, All Inclusive, habitaciones Prémium Vista Tropical de 37 m² y oferta de restaurantes. No se presupuesta Star Prestige.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "ibero-ota",
+      "title": "Iberostar · Expedia",
+      "url": "https://www.expedia.com/Punta-Cana-Hotels-Iberostar-Selection-Hacienda-Dominicus-All-Inclusive.h881180.Hotel-Information",
+      "backs": "Galería real, categoría Prémium Vista Tropical y equipamiento; referencias de huéspedes.",
+      "kind": "OTA / reseñas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "ibero-ta",
+      "title": "Iberostar · TripAdvisor · tenis",
+      "url": "https://www.tripadvisor.com/Hotel_Feature-g663484-d253138-zft9185-Iberostar_Selection_Hacienda_Dominicus.html",
+      "backs": "Respuesta histórica del hotel sobre dos canchas de arcilla. No acredita superficie ni estado en enero de 2027.",
+      "kind": "Reseñas / respuesta hotel",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "ibero-reviews",
+      "title": "Iberostar · TripAdvisor · reseñas",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g663484-d253138-Reviews-or50-Iberostar_Selection_Hacienda_Dominicus-Bayahibe_La_Altagracia_Province_Dominican_R.html",
+      "backs": "Señales sobre reposeras, actividades y obra/cierre puntual de piscina en 2026. Los espejos de TripAdvisor se cuentan como una sola comunidad.",
+      "kind": "Reseñas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "ibero-forum",
+      "title": "Iberostar · experiencia 2026",
+      "url": "https://www.reddit.com/r/PuntaCana/comments/1ts44jv/iberostar_selection_hacienda_dominicus/",
+      "backs": "Experiencia de viajeros; contrapunto a las críticas. No acredita disponibilidad ni ausencia futura de obras.",
+      "kind": "Foro",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "dominicus",
+      "title": "Turismo República Dominicana · Playa Dominicus",
+      "url": "https://www.godominicanrepublic.com/things-to-do/playa-dominicus",
+      "backs": "Arena, baño, arrecife y características del sector de playa.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "bay-climate",
+      "title": "Bayahibe · enero histórico",
+      "url": "https://en.climate-data.org/north-america/dominican-republic/la-altagracia/bayahibe-30074/t/january-1/",
+      "backs": "Temperatura diaria histórica durante enero y referencia local de lluvia; discrepancia con estaciones de Punta Cana.",
+      "kind": "Climatología secundaria",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "sargassum",
+      "title": "USF · boletín enero 2026",
+      "url": "https://optics.marine.usf.edu/projects/SaWS/pdf/Sargassum_outlook_2026_bulletin01_USF.pdf",
+      "backs": "Enero 2026 tuvo sargazo regional inusualmente alto; impide prometer ausencia en enero 2027. No es un pronóstico 2027.",
+      "kind": "Investigación científica",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "noaa",
+      "title": "NOAA · sargazo costero",
+      "url": "https://www.aoml.noaa.gov/phod/sargassum_inundation_report/",
+      "backs": "Monitoreo regional; cantidades oceánicas no equivalen a acumulación en una playa específica.",
+      "kind": "Investigación científica",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "dr-safety",
+      "title": "Canadá · República Dominicana",
+      "url": "https://travel.gc.ca/destinations/dominican-republic",
+      "backs": "Advertencia nacional por criminalidad. El informe distingue el resort de Dominicus del país completo.",
+      "kind": "Aviso oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "dr-entry",
+      "title": "Turismo RD · entrada",
+      "url": "https://www.godominicanrepublic.com/travel/entry-requirements",
+      "backs": "Entrada turística y documentación; tarjeta turística normalmente incorporada al billete.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "dr-eticket",
+      "title": "Migración RD · e-ticket",
+      "url": "https://eticket.migracion.gob.do/",
+      "backs": "Formulario oficial gratuito; no se utilizan intermediarios de pago.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "oceania",
+      "title": "Prestige · Oceania BG131-4 · unidad exacta",
+      "url": "https://come2holiday.com/property/1091/",
+      "backs": "Cuatro dormitorios, máximo diez adultos, camas reales, concierge, servicios y cotización disponible 13–21 enero US$15.694,42 con cargos.",
+      "kind": "Administrador / cotización enero",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "oceania-tourism",
+      "title": "Aruba · Prestige Vacations",
+      "url": "https://www.aruba.com/us/stay-at/prestige-vacations-aruba",
+      "backs": "Administrador incluido en el directorio de turismo. No equivale a una auditoría de calidad de esta unidad.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-beach",
+      "title": "Aruba · Eagle Beach",
+      "url": "https://www.aruba.com/us/explore/eagle-beach",
+      "backs": "Arena blanca, playa amplia y ubicación. Oceania requiere cruzar una calle frente al complejo.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-normal",
+      "title": "Meteorología Aruba · normales 1991–2020",
+      "url": "https://www.meteo.aw/files/Download/climatnormals19912020.pdf",
+      "backs": "Enero: máxima 30,3 °C, mínima 24,8 °C, 44 mm, 10,8 días ≥1 mm, humedad 77,8%, viento 7,2 m/s = 25,9 km/h.",
+      "kind": "Climatología oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-season",
+      "title": "Meteorología Aruba · estacionalidad",
+      "url": "https://www.meteo.aw/climate.php",
+      "backs": "Enero cierra la época lluviosa; febrero–junio es más seco. No se describe enero como completamente seco.",
+      "kind": "Climatología oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-water",
+      "title": "Aruba · agua en enero",
+      "url": "https://beach-weather.com/Caribbean/Aruba/averages/January/",
+      "backs": "Referencia secundaria de agua cercana a 27 °C; otras series sitúan enero cerca de 26 °C. Se usa banda 26–27.",
+      "kind": "Temperatura mar secundaria",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-safety",
+      "title": "Canadá · Aruba",
+      "url": "https://travel.gc.ca/destinations/aruba",
+      "backs": "Precauciones normales; hurtos y cuidado de pertenencias en playas.",
+      "kind": "Aviso oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "dutch-visa",
+      "title": "Países Bajos · visa Caribe",
+      "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
+      "backs": "Pasaporte argentino exento de visa caribeña para turismo normal.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-entry",
+      "title": "Aruba · requisitos migratorios",
+      "url": "https://www.aruba.com/us/plan-your-visit/getting-to-aruba/immigration-regulations",
+      "backs": "Pasaporte, salida y seguro médico válido con cobertura mínima publicada de US$15.000. No confundir con el antiguo seguro COVID.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-fee",
+      "title": "Aruba · tasa sostenibilidad",
+      "url": "https://www.aruba.com/us/sustainability-fee",
+      "backs": "US$20 por visitante; se presupuesta para los diez adultos.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-ed",
+      "title": "Aruba · ED Card",
+      "url": "https://edcardaruba.aw/",
+      "backs": "Formulario oficial electrónico de entrada; verificación previa al viaje.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "aruba-tax",
+      "title": "Aruba · actualización impuestos 2023",
+      "url": "https://arubachamber.com/pages/wp-content/uploads/2023/01/taxchanges2023.pdf",
+      "backs": "Lodge tax 12,5%; el desglose observado de BG131 lo confirma. No se utiliza el antiguo 9,5%.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "toque",
+      "title": "Pousada do Toque · propiedad",
+      "url": "https://pousadadotoque.com.br/a-pousada/",
+      "backs": "Pousada pequeña frente al mar, instalaciones, restaurante y experiencia de estadía.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "toque-rooms",
+      "title": "Pousada do Toque · chalés",
+      "url": "https://pousadadotoque.com.br/chales/",
+      "backs": "Categorías y ocupación doble. Se requieren cinco chalés; no se presume que existan cinco unidades Jardim iguales.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "toque-rate",
+      "title": "Toque · Roteiros de Charme · paquetes",
+      "url": "https://www.roteirosdecharme.com.br/hotel/pousada-do-toque/pacotes/",
+      "backs": "Referencias publicadas de noviembre y Réveillon; no constituyen una cotización para 12–20 enero.",
+      "kind": "Asociación hotelera",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "toque-michelin",
+      "title": "Toque · guía hotelera Michelin",
+      "url": "https://guide.michelin.com/br/pt_BR/hotels-stays/sao-miguel-dos-milagres/pousada-do-toque-11045",
+      "backs": "Valoración hotelera, restaurant y deportes. La inclusión en guía de hoteles no significa una estrella gastronómica.",
+      "kind": "Guía independiente",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "toque-review",
+      "title": "Toque · Expedia · reseñas 2026",
+      "url": "https://www.expedia.com/Sao-Miguel-Dos-Milagres-Hotels-Pousada-Do-Toque.h8423193.Hotel-Information",
+      "backs": "Abril 2026: elogios a atención/comida, junto con críticas concretas de mantenimiento y agua caliente.",
+      "kind": "OTA / reseñas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "kiseki",
+      "title": "Alma Milagres · Casa Kiseki",
+      "url": "https://www.almamilagres.com.br/pt/apartment/SZ01I/casa-milagres-frente-mar-condominio-pe-na-areia",
+      "backs": "Máximo diez, cuatro suites, ocho camas; cocinera R$250/día, limpieza R$150/día 07–15; gestión compras 10%, mercado a 500 m. Enero exige consulta.",
+      "kind": "Administrador",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "kiseki-airbnb",
+      "title": "Kiseki · anuncio Airbnb",
+      "url": "https://www.airbnb.com.br/rooms/1445027567971440391",
+      "backs": "Distribución de camas y pocas reseñas de esta propiedad. No confundir reseñas del anfitrión con reseñas de la casa.",
+      "kind": "OTA / reseñas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "maceio-normal",
+      "title": "INMET · balance enero Maceió",
+      "url": "https://portal.inmet.gov.br/noticias/balan%C3%A7o-em-janeiro-choveu-62-2-mm-em-macei%C3%B3",
+      "backs": "Normales citadas: máxima 31 °C, mínima 22,4 °C, lluvia 91,2 mm. Los 62,2 mm corresponden a enero 2025, no a la normal.",
+      "kind": "Climatología oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "maceio-sea",
+      "title": "Maceió · serie agua",
+      "url": "https://live.seatemperature.org/south-america/brazil/maceio-april.htm",
+      "backs": "Tabla mensual con fila enero cercana a 28 °C. Referencia regional, no medición en la playa de Toque.",
+      "kind": "Temperatura mar secundaria",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "milagres-tourism",
+      "title": "Brasil · Nordeste",
+      "url": "https://marcanordeste.visitbrasil.com/en/",
+      "backs": "Región costera y atractivo de playas; no sustituye una normal meteorológica local.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "brazil-safety",
+      "title": "Canadá · Brasil",
+      "url": "https://travel.gc.ca/destinations/brazil",
+      "backs": "Criminalidad y avisos actuales, incluida alerta sobre bebidas adulteradas. Alojamientos controlados y traslado privado.",
+      "kind": "Aviso oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "brazil-entry",
+      "title": "Policía Federal Brasil · inmigración",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/imigracao/duvidas-frequentes",
+      "backs": "Entrada turística y documentos admitidos para ciudadanos Mercosur.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "brazil-arg",
+      "title": "Consulado argentino Recife · turistas",
+      "url": "https://creci.cancilleria.gob.ar/es/informaci%C3%B3n-importante-para-turistas-argentinos",
+      "backs": "Documentación y recomendaciones para viajeros argentinos.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "serrambi",
+      "title": "Serrambi Resort · oficial",
+      "url": "https://www.serrambiresort.com/",
+      "backs": "Resort, península, desayuno y cena; no All Inclusive.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "serrambi-room",
+      "title": "Serrambi · Apartamento Superior",
+      "url": "https://www.serrambiresort.com/quartos/apartamento-superior",
+      "backs": "Categoría de habitaciones y ocupación; se presupuestan cinco dobles.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "serrambi-sport",
+      "title": "Serrambi · actividades",
+      "url": "https://www.serrambiresort.com/atracoes",
+      "backs": "Beach tennis y cancha polideportiva; tenis tradicional sin detalle operativo.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "serrambi-blog",
+      "title": "Serrambi · deportes nombrados",
+      "url": "https://www.serrambiresort.com/post/o-que-fazer-em-serrambi",
+      "backs": "Menciona tenis y beach tennis; divergencia con la ficha actual de instalaciones.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "serrambi-review",
+      "title": "Serrambi · reseñas de Booking reproducidas",
+      "url": "https://pt-br.planetofhotels.com/brasil/porto-de-galinhas/serrambi-resort",
+      "backs": "Comentarios sobre comida, instalaciones, habitaciones y ruido de obras en 2026. Se cuenta como evidencia Booking, no plataforma independiente.",
+      "kind": "Reseñas reproducidas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "recife-normal",
+      "title": "INMET · enero Nordeste",
+      "url": "https://portal.inmet.gov.br/noticias/balan%C3%A7o-das-condi%C3%A7%C3%B5es-de-tempo-nas-capitais-da-regi%C3%A3o-nordeste-no-m%C3%AAs-de-janeiro-de-2021",
+      "backs": "Referencia Recife: normal de lluvia 93,8 mm para período citado. Otras series rondan 107 mm: banda 90–110.",
+      "kind": "Climatología oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "recife-sea",
+      "title": "Porto de Galinhas · agua enero",
+      "url": "https://seatemperature.com/regions/south-america/brazil/porto-de-galinhas",
+      "backs": "Serie regional de temperatura de mar, enero aproximadamente 27,7 °C; no termómetro de Serrambi.",
+      "kind": "Temperatura mar secundaria",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "porto-tourism",
+      "title": "Brasil · Porto de Galinhas",
+      "url": "https://www.visitbrasil.com/en/location/porto-de-galinhas-en/",
+      "backs": "Playas y piscinas de arrecife; el baño cambia con la marea.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "trs",
+      "title": "TRS Coral · oficial",
+      "url": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel",
+      "backs": "Adults Only, comidas, e-butler y una hora de cancha diaria por habitación según beneficio publicado.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "trs-room",
+      "title": "TRS Coral · habitaciones",
+      "url": "https://www.palladiumhotelgroup.com/en/hotels/mexico/costamujerescancun/trs-coral-hotel/rooms",
+      "backs": "Junior Suite Garden View de 66 m²; cinco dobles. No se presupuestan Swim Out ni Beachfront.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "nadal",
+      "title": "Rafa Nadal Tennis Center · instalaciones",
+      "url": "https://cancun.rafanadaltenniscenter.com/en/",
+      "backs": "Ocho canchas. El texto inglés actual dice hard-surface; fichas y fotos anteriores indican arcilla: superficie a confirmar antes de reservar.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "trs-rate",
+      "title": "TRS Coral · historial orientativo",
+      "url": "https://traveldeals.com/stays/cancun/trs-coral-hotel-adults-only-all-inclusive",
+      "backs": "Referencia de enero 2027 alrededor de US$631 por noche doble para fechas sueltas; no acredita ocho noches, impuestos ni cinco unidades.",
+      "kind": "Referencia de precios",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "trs-positive",
+      "title": "TRS Coral · experiencia positiva 2026",
+      "url": "https://www.reddit.com/r/AllInclusiveResorts/comments/1wkdb98/trs_coral_cancun_1010/",
+      "backs": "Comida y atención valoradas; tiempos de servicio y room service débiles. Tarifa de septiembre Swim Out no se usa como precio enero.",
+      "kind": "Foro",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "trs-negative",
+      "title": "TRS Coral · experiencia crítica 2026",
+      "url": "https://www.reddit.com/r/cancun/comments/1tszprn/trs_coral_cancun_review/",
+      "backs": "Relato detallado de mantenimiento, respuestas lentas y fricción para reservar cenas; otro viajero refiere experiencia similar. Alegaciones de enfermedad no verificadas.",
+      "kind": "Foro",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "trs-winter",
+      "title": "TRS Coral · experiencia invierno 2025",
+      "url": "https://www.reddit.com/r/AllInclusiveResorts/comments/1pvkked/review_trs_coral_playa_mujeres/",
+      "backs": "Mar con banderas rojas varios días y crítica de gastronomía. Caso particular que ilustra el riesgo de frentes invernales.",
+      "kind": "Foro",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "trs-ta",
+      "title": "TRS Coral · TripAdvisor",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1229340-d14091089-Reviews-TRS_Coral_Hotel-Playa_Mujeres_Costa_Mujeres_Yucatan_Peninsula.html",
+      "backs": "Opiniones recientes también elogian comida y personal; el conjunto es mixto.",
+      "kind": "Reseñas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "cancun-climate",
+      "title": "Cancún · enero histórico",
+      "url": "https://weatherspark.com/m/14484/1/Average-Weather-in-January-in-Canc%C3%BAn-Mexico",
+      "backs": "Máxima típica 27 °C, mínima 20 °C, agua 26 °C, viento y lluvia de enero; variabilidad por nortes.",
+      "kind": "Climatología secundaria",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "mex-safety",
+      "title": "EE.UU. · México y Quintana Roo",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/mexico.html",
+      "backs": "Quintana Roo: aumentar precauciones. Riesgo de zona turística y traslado privado, sin afirmar seguridad absoluta.",
+      "kind": "Aviso oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "mex-entry",
+      "title": "México · embajada en Argentina",
+      "url": "https://embamex.sre.gob.mx/argentina/index.php/la-visa-info-gral",
+      "backs": "Pasaporte argentino: turismo sin visa en condiciones normales.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "visitax",
+      "title": "Quintana Roo · VISITAX",
+      "url": "https://www.visitax.gob.mx/",
+      "backs": "Tasa turística oficial. US$20/persona es una provisión, no cotización de la tasa en pesos para 2027.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "palladium-neg",
+      "title": "Grand Palladium · crítica familia",
+      "url": "https://www.reddit.com/r/AllInclusiveResorts/comments/1ui5f0q/grand_palladium_at_costa_mujeres_review/",
+      "backs": "Recepción lenta y dificultad de cenas; evidencia adversarial de 2026.",
+      "kind": "Foro",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "palladium-ta",
+      "title": "Grand Palladium · reservas de cenas",
+      "url": "https://www.tripadvisor.com.mx/Restaurant_Review-g150807-d28145414-Reviews-Grand_Palladium_Costa_Mujeres-Cancun_Yucatan_Peninsula.html",
+      "backs": "Varias críticas 2026 sobre reservas; una familia de diez refiere mesas muy tardías.",
+      "kind": "Reseñas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "nannai",
+      "title": "NANNAI Muro Alto · oficial",
+      "url": "https://www.nannai.com.br/hoteis/muro-alto",
+      "backs": "Categorías, media pensión y tarifas observadas; enero superó el presupuesto efectivo.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "summerville",
+      "title": "Summerville · oficial",
+      "url": "https://www.summervilleresort.com.br/",
+      "backs": "Categorías e inventario visible en el motor: enero 12–20 sólo suites a precio incompatible con el techo.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "catalonia",
+      "title": "Catalonia Royal La Romana · oficial",
+      "url": "https://www.cataloniahotels.com/en/hotel/catalonia-royal-la-romana-adults-only",
+      "backs": "Doble enero observada alrededor de US$670/noche; máximo dos adultos; precio efectivo supera US$4.000.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "bluebay",
+      "title": "Blue Bay · The Shore",
+      "url": "https://bluebay-curacao.com/the-shore/",
+      "backs": "Apartamentos y playa; no garantiza diez adultos en una única unidad.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "cur-normal",
+      "title": "Meteorología Curaçao · normales",
+      "url": "https://www.meteo.cw/Data_www/pdf/reports/Official_30_yr_avg_2020_1991.pdf",
+      "backs": "Enero: 49,5 mm, viento 11,3 nudos; clima atractivo, pero no resuelve los problemas de alojamiento.",
+      "kind": "Climatología oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "brisas",
+      "title": "Las Brisas Huatulco · oficial",
+      "url": "https://www.lasbrisashotels.com.mx/en/huatulco/",
+      "backs": "Playas y tenis; el itinerario de una escala aceptable observado no cerró debajo del presupuesto.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "hux-climate",
+      "title": "CONANP · Tangolunda Huatulco",
+      "url": "https://www.conanp.gob.mx/pdf/separata/EPJ-PN-Tangolunda.pdf",
+      "backs": "Patrón costero de enero muy seco. La conectividad y el precio eliminaron el plan.",
+      "kind": "Climatología oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "cuba-safety",
+      "title": "Canadá · Cuba",
+      "url": "https://travel.gc.ca/destinations/cuba",
+      "backs": "Advertencias de infraestructura, electricidad y abastecimiento; filtro de comodidad/seguridad.",
+      "kind": "Aviso oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "noronha",
+      "title": "Brasil · Fernando de Noronha",
+      "url": "https://www.visitbrasil.com/en/location/fernando-de-noronha-en/",
+      "backs": "Estacionalidad de surf y mar; Mar de Dentro no garantiza el baño calmo prioritario en enero.",
+      "kind": "Oficial",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "bluebay-review",
+      "title": "Blue Bay · TripAdvisor · experiencias 2026",
+      "url": "https://www.tripadvisor.co.uk/Hotel_Review-g2548635-d1007289-Reviews-Blue_Bay_Curacao_Golf_Beach_Resort-Dorp_Sint_Michiel_Curacao.html",
+      "backs": "Quejas de sustitución de unidad y operación; muestra limitada a viajeros que publicaron opinión.",
+      "kind": "Reseñas",
+      "consulted": "2026-10-07"
+    },
+    {
+      "id": "amsterdam-review",
+      "title": "Amsterdam Manor · olor del entorno",
+      "url": "https://www.tripadvisor.co.uk/ShowTopic-g147247-i144-k14635876-Recent_visitor_to_Eagle_Beach_Amsterdam_Manor_Sewage_smell-Aruba.html",
+      "backs": "Hilo de visitantes que contrasta el riesgo de olor del entorno. No describe toda Eagle Beach ni garantiza persistencia en enero 2027.",
+      "kind": "Foro de viajes",
+      "consulted": "2026-10-07"
+    }
+  ],
+  "screening": [
+    {
+      "zona": "Eagle Beach",
+      "pais": "Aruba",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Arena amplia y mar occidental; explorar costo real sin AI"
+    },
+    {
+      "zona": "Palm Beach",
+      "pais": "Aruba",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Mar protegido y comida fácil; contrastar densidad y precios"
+    },
+    {
+      "zona": "Sorobon / Lac Bay",
+      "pais": "Bonaire",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Conexión regional adicional no demostrada dentro de una escala; viento y playa orientada al windsurf"
+    },
+    {
+      "zona": "Blue Bay",
+      "pais": "Curaçao",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Bahía natural y apartamentos con playa y tenis"
+    },
+    {
+      "zona": "Mambo / Sea Aquarium",
+      "pais": "Curaçao",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Baño protegido y restaurantes; investigar ruido y servicio"
+    },
+    {
+      "zona": "Westpunt / Grote Knip",
+      "pais": "Curaçao",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Playa magnífica pero restaurantes y alojamiento dispersos; peor comodidad para diez"
+    },
+    {
+      "zona": "Dominicus / Bayahíbe",
+      "pais": "República Dominicana",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Costa caribeña a sotavento, arena y servicios; distinta playa de Bávaro"
+    },
+    {
+      "zona": "Cap Cana / Juanillo",
+      "pais": "República Dominicana",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Buena playa y transfer corto; riesgo de exceder presupuesto premium"
+    },
+    {
+      "zona": "Bávaro",
+      "pais": "República Dominicana",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Referencia AI y conexión ROS; penalizar repetición y exposición a algas"
+    },
+    {
+      "zona": "Las Terrenas / Samaná",
+      "pais": "República Dominicana",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Aeropuertos accesibles con una escala suelen implicar traslado largo; oleaje norte en enero"
+    },
+    {
+      "zona": "Playa Dorada / Puerto Plata",
+      "pais": "República Dominicana",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Mar atlántico más variable en enero; calidad de baño menos favorable"
+    },
+    {
+      "zona": "Seven Mile Beach / Negril",
+      "pais": "Jamaica",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Playa destacada; verificar seguridad turística antes de puntuar"
+    },
+    {
+      "zona": "Montego Bay",
+      "pais": "Jamaica",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Advertencias de criminalidad y problemas en zonas turísticas; menor encaje en tranquilidad"
+    },
+    {
+      "zona": "Grand Case / Petite Plage",
+      "pais": "Saint-Martin",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Bahía protegida y restaurantes; verificar entrada, marejada y costo"
+    },
+    {
+      "zona": "Shoal Bay East",
+      "pais": "Anguilla",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Otro cruce de frontera y barco tras SXM; costo alto y logística menos simple para diez"
+    },
+    {
+      "zona": "Costa oeste / Holetown",
+      "pais": "Barbados",
+      "grupo": "Caribe",
+      "etapa": "Preselección",
+      "motivo": "Mar occidental calmado y enero favorable; hotelería cara"
+    },
+    {
+      "zona": "Maxwell / costa sur",
+      "pais": "Barbados",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Más oleaje y viento que oeste; servicio premium a precio alto"
+    },
+    {
+      "zona": "Grace Bay",
+      "pais": "Turks y Caicos",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Precio alto en enero y conectividad sin tránsito estadounidense no demostrada"
+    },
+    {
+      "zona": "Seven Mile Beach",
+      "pais": "Islas Caimán",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Sin visa local para argentinos, pero ruta práctica sin visa de tránsito de EE.UU. no demostrada"
+    },
+    {
+      "zona": "Cable Beach / Nassau",
+      "pais": "Bahamas",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Frentes fríos, agua menos cálida en enero y alertas de seguridad en Nassau"
+    },
+    {
+      "zona": "Exuma",
+      "pais": "Bahamas",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Mayor complejidad aérea y gasto; agua y clima invernal menos estables"
+    },
+    {
+      "zona": "Varadero",
+      "pais": "Cuba",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Alerta oficial evitar viajes no esenciales; abastecimiento y servicio no encajan"
+    },
+    {
+      "zona": "Cayo Santa María",
+      "pais": "Cuba",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Alerta oficial y transfer largo desde Santa Clara; incertidumbre de suministros"
+    },
+    {
+      "zona": "Reduit / Rodney Bay",
+      "pais": "Santa Lucía",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Rutas prácticas sin tránsito estadounidense requieren conexiones adicionales"
+    },
+    {
+      "zona": "Grand Anse",
+      "pais": "Granada",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Muy buena playa, pero conexión simple sin EE.UU. no demostrada"
+    },
+    {
+      "zona": "Dickenson Bay",
+      "pais": "Antigua y Barbuda",
+      "grupo": "Caribe",
+      "etapa": "Descartado",
+      "motivo": "Hotelería premium cara y ruta simple sin visa de tránsito no demostrada"
+    },
+    {
+      "zona": "Costa Mujeres / Playa Mujeres",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Preselección",
+      "motivo": "Playa amplia, transfer corto y AI; sargazo y viento deben contrastarse"
+    },
+    {
+      "zona": "Cancún norte / Playa Caracol",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Preselección",
+      "motivo": "Mar más protegido que costa este; densidad y calidad de servicio a verificar"
+    },
+    {
+      "zona": "Playacar",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Preselección",
+      "motivo": "Arena amplia y bosque; AI con deportes a evaluar"
+    },
+    {
+      "zona": "Puerto Morelos",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Preselección",
+      "motivo": "Arrecife y localidad tranquila; comparar playa real y alimentación"
+    },
+    {
+      "zona": "Akumal",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Descartado",
+      "motivo": "Bahía y snorkel excelentes, pero restricciones de baño, afluencia y AI premium caro"
+    },
+    {
+      "zona": "Cozumel",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Descartado",
+      "motivo": "Playa de resort generalmente estrecha o rocosa; ferry desde CUN excede logística ideal"
+    },
+    {
+      "zona": "Holbox",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Descartado",
+      "motivo": "Traslado carretera y ferry largo; frentes fríos, inundaciones y fricción para diez"
+    },
+    {
+      "zona": "Huatulco / bahías de Tangolunda",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Preselección",
+      "motivo": "Enero seco y bahías para baño; EZE requiere traslado terrestre pero una escala viable"
+    },
+    {
+      "zona": "Nuevo Nayarit / Bahía de Banderas",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Descartado",
+      "motivo": "Agua más fresca y menor transparencia; no supera alternativas caribeñas"
+    },
+    {
+      "zona": "Los Cabos / bahías aptas para baño",
+      "pais": "México",
+      "grupo": "México",
+      "etapa": "Descartado",
+      "motivo": "Muchos frentes de hotel no aptos para baño y hoteles de bahía muy caros"
+    },
+    {
+      "zona": "Muro Alto",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Preselección",
+      "motivo": "Laguna arrecifal, agua muy cálida y resorts con tenis"
+    },
+    {
+      "zona": "Porto de Galinhas centro",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Multitudes de enero y mareas condicionan baño; Muro Alto ofrece mejor base tranquila"
+    },
+    {
+      "zona": "Ipioca",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Preselección",
+      "motivo": "Playa amplia y complejos completos a transfer corto de MCZ"
+    },
+    {
+      "zona": "Ponta Verde / Pajuçara",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Playa urbana y alta temporada; preferir base más tranquila en Ipioca"
+    },
+    {
+      "zona": "Maragogi",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Transfer MCZ/REC normalmente más de dos horas; piscinas dependen de marea"
+    },
+    {
+      "zona": "Japaratinga",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Hotelería prometedora, pero transfer desde aeropuertos internacionales demasiado largo"
+    },
+    {
+      "zona": "São Miguel dos Milagres / Toque",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Preselección",
+      "motivo": "Arrecife, tranquilidad y posadas; evaluar ruta MCZ y comidas"
+    },
+    {
+      "zona": "Patacho / Porto de Pedras",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Atractiva playa, pero transfer en el límite o superior a dos horas y comida más dispersa"
+    },
+    {
+      "zona": "Praia do Forte",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Preselección",
+      "motivo": "Buen servicio y tenis; comprobar si el baño frente al hotel satisface criterio de playa"
+    },
+    {
+      "zona": "Imbassaí",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Mar abierto con olas y corrientes; menor facilidad de baño que Muro Alto"
+    },
+    {
+      "zona": "Pipa / Madeiro",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Accesos por escaleras, mareas y traslados; menor comodidad continua de playa"
+    },
+    {
+      "zona": "Natal / Ponta Negra",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Conexión ROS prometedora, pero baño abierto y obras/cambios de playa merecen prudencia"
+    },
+    {
+      "zona": "Jericoacoara",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Viento, acceso final y arena de playa menos conveniente para ocho noches de baño tranquilo"
+    },
+    {
+      "zona": "Fernando de Noronha",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Swell de enero y conexiones adicionales; costos y accesos no encajan"
+    },
+    {
+      "zona": "Jurerê / norte de Florianópolis",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Preselección",
+      "motivo": "Logística regional buena; lluvia de verano, agua y afluencia a contrastar"
+    },
+    {
+      "zona": "Búzios",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Transfer desde GIG normalmente unas tres horas y agua variable"
+    },
+    {
+      "zona": "Arraial do Cabo",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Transfer desde GIG largo y surgencia de agua fría; no compensa logística"
+    },
+    {
+      "zona": "Trancoso",
+      "pais": "Brasil",
+      "grupo": "Brasil",
+      "etapa": "Descartado",
+      "motivo": "Transfer y precios altos de posadas premium; mejor valor en Alagoas/Pernambuco"
+    },
+    {
+      "zona": "Playa Conchal",
+      "pais": "Costa Rica",
+      "grupo": "Centroamérica",
+      "etapa": "Preselección",
+      "motivo": "Playa y estación seca excelentes; conectividad a LIR pendiente"
+    },
+    {
+      "zona": "Playa Hermosa / Guanacaste",
+      "pais": "Costa Rica",
+      "grupo": "Centroamérica",
+      "etapa": "Preselección",
+      "motivo": "Bahía tranquila y transfer LIR corto; ruta simple no demostrada"
+    },
+    {
+      "zona": "Flamingo",
+      "pais": "Costa Rica",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Conectividad a LIR no confirmada sin EE.UU. ni segunda escala"
+    },
+    {
+      "zona": "Sámara / Carrillo",
+      "pais": "Costa Rica",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Traslado final largo desde SJO/LIR además de conectividad; no favorece grupo"
+    },
+    {
+      "zona": "Manuel Antonio",
+      "pais": "Costa Rica",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Traslado desde SJO habitualmente tres horas o más"
+    },
+    {
+      "zona": "Playa Blanca / Río Hato",
+      "pais": "Panamá",
+      "grupo": "Centroamérica",
+      "etapa": "Preselección",
+      "motivo": "ROS–PTY directo y estación seca; transfer final es puerta crítica"
+    },
+    {
+      "zona": "Guna Yala / San Blas",
+      "pais": "Panamá",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Carretera larga más barco, alojamiento rústico y comida poco flexible"
+    },
+    {
+      "zona": "Bocas del Toro",
+      "pais": "Panamá",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Cambio de aeropuerto/avión y enero lluvioso; base de playa exige más transporte"
+    },
+    {
+      "zona": "West Bay / Roatán",
+      "pais": "Honduras",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "No se demuestra ruta enero con una escala en aerolínea establecida sin EE.UU.; lluvia y seguridad adicional"
+    },
+    {
+      "zona": "Placencia",
+      "pais": "Belice",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Tres a cuatro horas por carretera desde BZE, o vuelo doméstico adicional"
+    },
+    {
+      "zona": "Ambergris Caye / San Pedro",
+      "pais": "Belice",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Vuelo doméstico extra o cadena taxi/ferry; algas y playa de alojamiento menos fuerte"
+    },
+    {
+      "zona": "Corn Islands",
+      "pais": "Nicaragua",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Requiere vuelo regional extra después de llegar a Managua"
+    },
+    {
+      "zona": "San Juan del Sur",
+      "pais": "Nicaragua",
+      "grupo": "Centroamérica",
+      "etapa": "Descartado",
+      "motivo": "Traslado largo desde MGA y playas de mar abierto más orientadas al surf"
+    },
+    {
+      "zona": "Spratt Bight / San Luis",
+      "pais": "Colombia",
+      "grupo": "Sudamérica",
+      "etapa": "Preselección",
+      "motivo": "Mar excelente y ROS–PTY–ADZ; verificar servicio, viento y concentración turística"
+    },
+    {
+      "zona": "Providencia",
+      "pais": "Colombia",
+      "grupo": "Sudamérica",
+      "etapa": "Descartado",
+      "motivo": "Vuelo regional adicional o barco largo y movido después de San Andrés"
+    },
+    {
+      "zona": "Barú / islas del Rosario",
+      "pais": "Colombia",
+      "grupo": "Sudamérica",
+      "etapa": "Descartado",
+      "motivo": "Base isleña y transfers con fricción; hotelería de playa premium cara y excursiones concurridas"
+    },
+    {
+      "zona": "Tayrona / Santa Marta",
+      "pais": "Colombia",
+      "grupo": "Sudamérica",
+      "etapa": "Descartado",
+      "motivo": "Baño restringido en playas con corrientes y acceso terrestre/senderos; comodidad insuficiente"
+    },
+    {
+      "zona": "Punta Sal",
+      "pais": "Perú",
+      "grupo": "Sudamérica",
+      "etapa": "Preselección",
+      "motivo": "Agua más cálida del norte peruano y ruta vía LIM; comparar servicio y oleaje"
+    },
+    {
+      "zona": "Vichayito / Las Pocitas",
+      "pais": "Perú",
+      "grupo": "Sudamérica",
+      "etapa": "Descartado",
+      "motivo": "Mar abierto y rango de servicio; transfer desde PIU largo, mejor investigar Punta Sal vía TBP"
+    },
+    {
+      "zona": "Salinas",
+      "pais": "Ecuador",
+      "grupo": "Sudamérica",
+      "etapa": "Descartado",
+      "motivo": "Advertencias de seguridad costera y playa urbana; no satisface tranquilidad buscada"
+    },
+    {
+      "zona": "Los Roques",
+      "pais": "Venezuela",
+      "grupo": "Sudamérica",
+      "etapa": "Descartado",
+      "motivo": "Alerta oficial evitar todo viaje y vuelo adicional desde Caracas"
+    }
+  ],
+  "discards": [
+    {
+      "name": "Summerville · Porto de Galinhas",
+      "reason": "Precio enero",
+      "detail": "12–20 enero: suite doble R$36.640 tarjeta / R$34.808 PIX por ocho noches. Cinco unidades + vuelo y transfer rondan US$4.780/persona antes de impuestos. Las habitaciones más baratas no aparecieron disponibles en ese intervalo.",
+      "refs": [
+        "summerville",
+        "flights"
+      ]
+    },
+    {
+      "name": "NANNAI · Muro Alto",
+      "reason": "Precio enero",
+      "detail": "Jardín enero observado R$3.361 por doble/noche +5%. Cinco dobles son unos US$2.567/persona sólo de hotel; con vuelo, almuerzos y transfer supera US$4.360. No se inventa ocupación triple para abaratar.",
+      "refs": [
+        "nannai",
+        "flights"
+      ]
+    },
+    {
+      "name": "Catalonia Royal La Romana",
+      "reason": "Precio y ocupación",
+      "detail": "Doble enero observada US$670/noche. Cinco dobles + vuelo directo y carry-on superan US$4.135 antes de contingencia. Capacidad máxima dos adultos: no funciona 2+2+3+3.",
+      "refs": [
+        "catalonia",
+        "puj-flight"
+      ]
+    },
+    {
+      "name": "Grand Palladium Select Costa Mujeres",
+      "reason": "Fricción gastronómica",
+      "detail": "Reservas difíciles y mesas tardías en varias experiencias 2026, incluida una familia de diez. Se prefirió mostrar TRS sólo como alternativa especializada de tenis, con las mismas reservas expuestas y penalizadas.",
+      "refs": [
+        "palladium-neg",
+        "palladium-ta"
+      ]
+    },
+    {
+      "name": "Blue Bay · The Shore · Curaçao",
+      "reason": "Consistencia de servicio",
+      "detail": "Playa y tenis prometedores, pero reportes de sustitución de unidad/overbooking debilitan una reunión familiar que busca no resolver problemas. Sólo sería investigación futura con unidad e inventario garantizados. El clima no es la causa del descarte.",
+      "refs": [
+        "bluebay",
+        "bluebay-review",
+        "cur-normal"
+      ]
+    },
+    {
+      "name": "Oceania OC233 y E225 · Aruba",
+      "reason": "Inventario concreto",
+      "detail": "Dos apartamentos de tres dormitorios eran una hipótesis razonable; las consultas 13–21 enero no mostraron ambos disponibles. Se sustituyó por la unidad BG131-4 realmente cotizada para diez.",
+      "refs": [
+        "oceania"
+      ]
+    },
+    {
+      "name": "Las Brisas Huatulco",
+      "reason": "Costo del itinerario admisible",
+      "detail": "Muy buen enero y tenis. EZE–MEX–HUX de una escala observado desde US$2.777 RT; sumando hotel, Rosario–EZE y comidas, la propuesta excede US$4.000. Alternativas más baratas exigían EE.UU./visa o dos escalas. No demuestra que toda fecha enero sea cara, sí que no se cerró una propuesta admisible.",
+      "refs": [
+        "brisas",
+        "hux-climate",
+        "flights"
+      ]
+    },
+    {
+      "name": "NANN Residence · unidad 101",
+      "reason": "Capacidad y servicio",
+      "detail": "Una unidad de cuatro adultos no prueba tres unidades idénticas disponibles; limpieza y comida tampoco quedaron al nivel requerido. No se multiplicó artificialmente el inventario.",
+      "refs": [
+        "nannai"
+      ]
+    },
+    {
+      "name": "Amsterdam Manor · Eagle Beach",
+      "reason": "Olor y camas",
+      "detail": "Quejas de visitantes sobre olores del entorno y configuraciones donde el quinto adulto usa sofá. No se concluye que el problema afecte a toda Eagle Beach ni que persista en enero. No aportó una mejora frente a BG131-4 con seis camas reales.",
+      "refs": [
+        "amsterdam-review",
+        "aruba-beach",
+        "oceania"
+      ]
+    },
+    {
+      "name": "Secrets La Romana",
+      "reason": "Evidencia insuficiente",
+      "detail": "Rebranding de Hilton en 2025; no quedó confirmada una tarifa enero de cuatro habitaciones 2+2+3+3. Una experiencia de septiembre 2026 señaló mantenimiento y comida débil: señal aislada, no condena del hotel. Posible investigación futura.",
+      "refs": [
+        "flights"
+      ]
+    },
+    {
+      "name": "Maragogi · Alagoas",
+      "reason": "Transfer largo",
+      "detail": "Desde MCZ el traslado habitual ronda 2h20–3h; no compensa su buena playa bajo la restricción de unas dos horas.",
+      "refs": [
+        "milagres-tourism"
+      ]
+    },
+    {
+      "name": "Fernando de Noronha · Mar de Dentro",
+      "reason": "Baño de enero",
+      "detail": "Temporada de surf y swell; playas magníficas que no ofrecen el baño calmo continuo buscado. Suma logística y costos.",
+      "refs": [
+        "noronha"
+      ]
+    },
+    {
+      "name": "Cuba",
+      "reason": "Infraestructura",
+      "detail": "Advertencias oficiales de electricidad y abastecimiento comprometen la comodidad esperada. No se recomienda sólo por un paquete barato.",
+      "refs": [
+        "cuba-safety"
+      ]
+    },
+    {
+      "name": "Papagayo / Conchal · Costa Rica",
+      "reason": "Viento y conectividad",
+      "detail": "Papagayo puede ser muy ventoso en enero. La ruta sencilla a Liberia desde ROS no quedó demostrada; desde San José el traslado a Conchal excede ampliamente dos horas.",
+      "refs": []
+    },
+    {
+      "name": "Barbados / Saint Martin / Antigua",
+      "reason": "Costo o ruta por cerrar",
+      "detail": "Playas y algunos condominios con tenis merecieron preselección, pero no se confirmó una combinación enero, diez adultos, una escala y costo efectivo ≤US$4.000. No se declara imposible todo el destino.",
+      "refs": []
+    },
+    {
+      "name": "Barú / islas de Colombia / Bocas del Toro",
+      "reason": "Logística y estándar",
+      "detail": "La mejor playa suele exigir lancha, pierna regional adicional o traslados largos; los productos sencillos no demostraron superar el estándar de servicio y descanso.",
+      "refs": []
+    }
+  ],
+  "observations": {
+    "consulted": "2026-10-07",
+    "aruba": {
+      "source": "https://come2holiday.com/property/1091/",
+      "configuration": "BG131-4, 10 adultos, 0 niños",
+      "checkin": "2027-01-13",
+      "checkout": "2027-01-21",
+      "nights": 8,
+      "availability_message": "Your dates are available",
+      "currency": "USD",
+      "rent": 13800,
+      "discount": -600,
+      "departure_cleaning": 350,
+      "credit_card_fee": 470.42,
+      "lodge_tax": 1650,
+      "environmental_levy": 24,
+      "total_group": 15694.42,
+      "optional_supplier_travel_insurance_excluded": 1054.61,
+      "notes": "Consulta pública, no reserva ni inventario bloqueado. Seguro médico mínimo de Aruba se presupuesta aparte por US55/persona; no se utiliza el seguro opcional porcentual del vendedor.",
+      "consulted": "2026-10-07"
+    },
+    "iberostar": {
+      "consulted": "2026-10-07",
+      "dates": "2027-01-15 / 2027-01-23",
+      "air": {
+        "amountUSD": 1230,
+        "channel": "Arajet vía Google Flights",
+        "travellers": 1,
+        "out": "ROS 04:00 → PUJ 10:43 · 7h43 · DM6677",
+        "return": "PUJ 17:59 → ROS 02:39+1 · 7h40 · DM6676",
+        "stops": 0,
+        "fare": "Basic; carry-on extra; provisión estimada USD150",
+        "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpIEgoyMDI3LTAxLTE1IiAKA1JPUxIKMjAyNy0wMS0xNRoDUFVKKgJETTIENjY3NygBag0IAhIJL20vMDJ0YjE3cgcIARIDUFVKGkgSCjIwMjctMDEtMjMiIAoDUFVKEgoyMDI3LTAxLTIzGgNST1MqAkRNMgQ2Njc2KAFqBwgBEgNQVUpyDQgCEgkvbS8wMnRiMTdAAUgBcAGCAQsI____________AZgBAQ&hl=es&curr=USD"
+      },
+      "hotel": {
+        "double8nUSD": 4990,
+        "triple8nUSD": 6861,
+        "configuration": "2 dobles + 2 triples",
+        "totalGroupUSD": 23702,
+        "taxIncluded": true,
+        "terms": "Prepago no reembolsable, una modificación; precio individual no aplicable a grupos. Multiplicación analítica, inventario conjunto pendiente.",
+        "url": "https://booking.iberostar.com/Reservations/availability?codiconc=73&conccodi=76&fechafin=23/01/2027&fechaini=15/01/2027&idiocodi=1&idiomercodi=es&monecodi=USD&numerohabitaciones=1&adultohab0=3&ninohab0=0&bebehab0=0&numeropersonas0=3"
+      }
+    },
+    "flights": {
+      "consulted": "2026-10-07",
+      "partyQuoted": 1,
+      "currency": "USD",
+      "observations": [
+        {
+          "destination": "PUJ",
+          "dates": "2027-01-13/2027-01-21",
+          "price": 1486,
+          "airline": "Arajet",
+          "outbound": "DM6677 04:00–10:43, 7h43, directo",
+          "return": "DM6676 18:10–02:50+1, 7h40, directo",
+          "baggage": "Google indica mano gratis pero no dispone de tarifas Arajet; tarifa exacta y carry-on no confirmados. Reservar margen de USD150 ida y vuelta; comprar Classic o adicional confirmado.",
+          "source": "Google Flights, selección completa de ida y vuelta"
+        },
+        {
+          "destination": "CUR",
+          "dates": "2027-01-12/2027-01-20",
+          "price": 1641,
+          "airline": "Copa",
+          "outbound": "CM836+CM288 01:28–12:18, 11h50, escala PTY 2h45",
+          "return": "CM833+CM899 15:32–03:48+1, 11h16, escala PTY 2h01",
+          "baggage": "Google indica una maleta de mano gratis; Copa Basic permite carry-on10kg y artículo personal. Asiento estándar sin selección pagada.",
+          "rejectedCheaper": "USD1390: ida 17h53 con 8h49 en PTY; otra vuelta de USD1645 con conexión47min también evitada",
+          "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpoEgoyMDI3LTAxLTEyIh8KA1JPUxIKMjAyNy0wMS0xMhoDUFRZKgJDTTIDODM2Ih8KA1BUWRIKMjAyNy0wMS0xMhoDQ1VSKgJDTTIDMjg4KAFqDQgCEgkvbS8wMnRiMTdyBwgBEgNDVVIaaBIKMjAyNy0wMS0yMCIfCgNDVVISCjIwMjctMDEtMjAaA1BUWSoCQ00yAzgzMyIfCgNQVFkSCjIwMjctMDEtMjAaA1JPUyoCQ00yAzg5OSgBagcIARIDQ1VScg0IAhIJL20vMDJ0YjE3QAFIAXABggELCP___________wGYAQE&hl=es&curr=USD"
+        },
+        {
+          "destination": "REC",
+          "dates": "2027-01-12/2027-01-20",
+          "price": 1290,
+          "otherObservedPrice": 1070,
+          "airline": "LATAM",
+          "outbound": "LA8171+LA3376 12:30–20:40, 8h10, GRU2h25",
+          "return": "LA3375+LA8170 02:25–11:15, 8h50, GRU2h30",
+          "baggage": "Google indica carry-on pero no dispone de tarifas LATAM/Despegar. Presupuesto incluye margen para Light. Retorno de madrugada; la última noche se paga aunque se abandona antes de medianoche.",
+          "source": "Google Flights selección completa: LATAM USD1290, Despegar USD1070; no 10 plazas confirmadas"
+        },
+        {
+          "destination": "MCZ",
+          "dates": "2027-01-12/2027-01-20",
+          "price": 1292,
+          "airline": "GOL",
+          "outbound": "G37723+G32076 03:00–11:45,8h45,GIG3h20",
+          "return": "G32079+G37722 17:30–01:15+1,7h45,GIG1h30",
+          "baggage": "Corrección: GOL publica cabina 12 kg en tarifas que incluyen carry-on; no 10 kg. La tarifa exacta del billete consultado no quedó identificada.",
+          "source": "Google Flights selección completa: reserva directa con GOL USD1292, impuestos incluidos para 1 adulto"
+        }
+      ]
+    },
+    "extraFlights": [
+      {
+        "destination": "AUA",
+        "dates": "2027-01-13/2027-01-21",
+        "price": 903,
+        "airline": "Arajet ida / LATAM vuelta",
+        "outbound": "DM6677+DM700 ROS04:00–AUA15:20;12h20;PUJ3h17",
+        "return": "LA2441+LA2432 AUA19:15–ROS06:30+1;10h15;LIM1h50",
+        "baggage": "Ida sin carry-on: agregar Classic/adicional; regreso Google señala mano incluida, tarifa concreta no visible. Dos billetes, uno completo por sentido; no es autoconexión con billetes separados dentro del mismo sentido. Reserva de equipaje USD120; precio aún no cotizado.",
+        "source": "Google Flights selección completa, reserva directa Arajet y LATAM; 1 adulto; impuestos incluidos; no disponibilidad de 10 plazas confirmada"
+      },
+      {
+        "destination": "CUN",
+        "dates": "2027-01-13/2027-01-21",
+        "price": 985,
+        "airline": "Arajet",
+        "outbound": "DM6677+DM7002 ROS04:00–CUN15:46;13h46;PUJ2h37",
+        "return": "DM7007+DM6676 CUN12:35–ROS02:50+1;12h15;PUJ1h31",
+        "baggage": "Basic no incluye carry-on. Classic incluye 12kg de cabina y bolso personal6kg. Reservar USD150 para suplemento, pendiente de importe final. Asiento estándar; no premium.",
+        "source": "Google Flights selección completa, reserva directa Arajet USD985; 1 adulto con impuestos; no disponibilidad de 10 plazas confirmada"
+      }
+    ],
+    "buenosAires": {
+      "consulted": "2026-10-07",
+      "route": "EZE-PUJ-AUA / AUA-PTY-EZE",
+      "dates": "2027-01-13/2027-01-21",
+      "airRTusd": 1046,
+      "booking": "Arajet + Copa; dos billetes separados por sentido, una escala protegida en cada uno",
+      "out": "EZE 05:20 → AUA 15:20; 11h; PUJ 1h45",
+      "return": "AUA 07:10 → EZE 22:20; 14h10; PTY 4h40",
+      "baggageEstimateUsd": 120,
+      "groundRoundtripEstimateUsd": 250,
+      "nightPriorEstimateUsd": 70,
+      "effectiveTransportEstimateUsd": 1486,
+      "versusRosarioEffectiveUsd": 1023,
+      "extraUsdPerson": 463,
+      "doorOutboundEstimateHours": 24,
+      "notes": "Traslado privado para diez estimado en US2500 ida/vuelta; noche previa cinco dobles US700 estimada para evitar viajar seis horas por carretera de madrugada. Tarifa aérea observada para un adulto; diez plazas sin confirmar.",
+      "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhphEgoyMDI3LTAxLTEzIiAKA0VaRRIKMjAyNy0wMS0xMxoDUFVKKgJETTIENjI2OSIfCgNQVUoSCjIwMjctMDEtMTMaA0FVQSoCRE0yAzcwMGoHCAESA0VaRXIHCAESA0FVQRpgEgoyMDI3LTAxLTIxIh8KA0FVQRIKMjAyNy0wMS0yMRoDUFRZKgJDTTIDODc3Ih8KA1BUWRIKMjAyNy0wMS0yMRoDRVpFKgJDTTIDMjE5agcIARIDQVVBcgcIARIDRVpFQAFIAXABggELCP___________wGYAQE&hl=es&curr=USD"
+    },
+    "previousHotelChecks": {
+      "consulted": "2026-10-07",
+      "observations": [
+        {
+          "id": "iberostar",
+          "dates": "2027-01-13/2027-01-21",
+          "nights": 8,
+          "currency": "USD",
+          "room": "Premium Tropical View37m2,king o2dobles1.35m",
+          "doublePrepaid": 4990,
+          "triplePrepaid": 6861,
+          "doubleFlexible": 5544,
+          "tripleFlexible": 7623,
+          "group4RoomPrepaid": 23702,
+          "group5RoomPrepaid": 24950,
+          "status": "Tarifas individuales observadas; condición indica no aplicable a grupos. Configuración4rooms2+2+3+3 admitida en motor pero no cotizada conjuntamente. Total con vuelo Arajet1486+carry150+trans75 por persona=4081.2 excede techo y se excluye en estas fechas."
+        },
+        {
+          "id": "nannai",
+          "dates": "2027-01-12/2027-01-20",
+          "nights": 8,
+          "currency": "BRL",
+          "room": "Apartamento Jardim",
+          "nightDouble": 3361,
+          "taxPerNight": 168.05,
+          "mealPlan": "desayuno+cena buffet; bebidas cena excluidas",
+          "rate": "Special Offer20%ya aplicada,no reembolsable,pago completo al reservar",
+          "group5RoomsBRL": 141162,
+          "planningFX": 5.5,
+          "lodgingPerPersonUSD": 2566.58,
+          "status": "USD requiere hCaptcha, no resuelto. No asumir20%extra. VistaMar sólo2unidades mostradas. Tarifa no confirma5Garden simultáneas. Base5doubles total supera4000."
+        },
+        {
+          "id": "catalonia",
+          "dates": "enero2027",
+          "currency": "USD",
+          "calendarDoubleNightFrom": 670,
+          "status": "Calendario indicativo enero; no precio completo8noches. Desde419 correspondeoctubre,noenero. 5habitacionesexige prepago no cancelable segúnoficial."
+        }
+      ]
+    }
+  }
+}

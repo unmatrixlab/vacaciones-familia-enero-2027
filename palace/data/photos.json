@@ -1,0 +1,442 @@
+[
+  {
+    "path": "assets/images/foto-01.jpg",
+    "caption": "Piscina principal y fachada",
+    "category": "Piscinas",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/hero/slide-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "b9003d555135b4062de4fc2304f180ae613a739a39c0a4f38be61aede5b82505"
+  },
+  {
+    "path": "assets/images/foto-02.jpg",
+    "caption": "Splash Water World · instalación del complejo RIU",
+    "category": "Parque acuático",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Entretenimiento/splash-water-world-hotel-riu-palace-punta-cana-4.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "b77f343cf407e7a2cd0be0f7490dbf071d08219429228302a760fe1890d87d09"
+  },
+  {
+    "path": "assets/images/foto-03.jpg",
+    "caption": "Reposeras dentro de la piscina",
+    "category": "Piscinas",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Piscinas/piscina-hotel-riu-palace-punta-cana-8.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "26f428c1e81ed7675f211577311c81d1887be523c35a79297cebc6e84fb07dd5"
+  },
+  {
+    "path": "assets/images/foto-04.jpg",
+    "caption": "Hotel y playa Arena Gorda desde el aire",
+    "category": "Playa y hotel",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Hotel/hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "15ae4dcfa8d7f663d68cf1cfb1e1411eac3ed43d5d4774d4a443894e34cfa98a"
+  },
+  {
+    "path": "assets/images/foto-05.jpg",
+    "caption": "Piscinas y mar",
+    "category": "Piscinas",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Piscinas/piscina-hotel-riu-palace-punta-cana-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "5e23de96bfc5aba25ee6f37af6695d9e0710d1d50591a93abe4698c317661787"
+  },
+  {
+    "path": "assets/images/foto-06.jpg",
+    "caption": "Lobby y arquitectura interior",
+    "category": "Playa y hotel",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Hotel/lobby-hotel-riu-palace-punta-cana-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "8838c0895ad24d9fffff41f3e8fd8f291ef7b8adb119e75d98792357d44bbed1"
+  },
+  {
+    "path": "assets/images/foto-07.jpg",
+    "caption": "Suite de catálogo · categoría superior por cotizar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SUSB-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "cffd3b029cdc394da9659f1341756eaa51d2430b112f0492a6640ff9d3d7026e"
+  },
+  {
+    "path": "assets/images/foto-08.jpg",
+    "caption": "La Altagracia · restaurante junto al mar",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-steakhouse-hotel-riu-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "c25f8cc48e7d98a7e8b4647b1110f796367a756e39a473ce39e00ad85cfe1d75"
+  },
+  {
+    "path": "assets/images/foto-09.jpg",
+    "caption": "Vista de piscinas y costa",
+    "category": "Piscinas",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Piscinas/piscina-hotel-riu-palace-punta-cana-7.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "3653022ad92b6603568ee23ddcdef4409005b38a64f10b4ae352471b821a2a1f"
+  },
+  {
+    "path": "assets/images/foto-10.jpg",
+    "caption": "Piscina con bar",
+    "category": "Piscinas",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Piscinas/piscina-hotel-riu-palace-punta-cana-1.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "7d7e75e64f162b0f9a048d53b8467689b93ba029a0d38d0a34f3f762c2d0e1d0"
+  },
+  {
+    "path": "assets/images/foto-11.jpg",
+    "caption": "Solárium y piscina",
+    "category": "Piscinas",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Piscinas/piscina-hotel-riu-palace-punta-cana-9.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "5cbe17c39affcb9cba2a557e809768f34de9a5f3d08bca862d508bcbc840225b"
+  },
+  {
+    "path": "assets/images/foto-12.jpg",
+    "caption": "Piscina infantil",
+    "category": "Piscinas",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Piscinas/piscina-infantil-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "ea1c348463f33fe7229e4435d174aea7fac03c52eae65adaa4a49287792ece26"
+  },
+  {
+    "path": "assets/images/foto-13.jpg",
+    "caption": "Recepción",
+    "category": "Playa y hotel",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Hotel/reception-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "df3a2c8ca2a2a8fe02d3903d96480d35e62be74b0a16c7cd8b0d34afb44714c5"
+  },
+  {
+    "path": "assets/images/foto-14.jpg",
+    "caption": "Junior Suite vista mar · mejora por cotizar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJMB.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "7dc3a4dd0e7851bf94da12d95ecab8576443ad63b9498244bc2fe7611293879b"
+  },
+  {
+    "path": "assets/images/foto-15.jpg",
+    "caption": "Habitación de catálogo · categoría exacta por confirmar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "f15a41f7bb991651782b9730d7e269f0c2532eb50092fa782a98ba27e67a3887"
+  },
+  {
+    "path": "assets/images/foto-16.jpg",
+    "caption": "Buffet junto a la piscina",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-piscina-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "2425c9be84a88f3fce684c8040d225e83bb420aab0f488e45fe6f67b9023a7a5"
+  },
+  {
+    "path": "assets/images/foto-17.jpg",
+    "caption": "La Isabela · buffet principal",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-principal-hotel-riu-palace-punta-cana-3.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "8e5a1981464e09c0dd915214cd5f7ea8a66e543a2a98de3d856f4697902fb92c"
+  },
+  {
+    "path": "assets/images/foto-18.jpg",
+    "caption": "Krystal · restaurante de fusión",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-krystal-hotel-riu-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "87fb91cd64af62873d98ac77edd5812c325666373e41a2f79b7af4b9dbedcfed"
+  },
+  {
+    "path": "assets/images/foto-19.jpg",
+    "caption": "Yokohama · restaurante asiático",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-asiatico-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "a3ca32d18d3f6ec4f9f012232db0bcfd956b50af748fee00b48631c51211676b"
+  },
+  {
+    "path": "assets/images/foto-20.jpg",
+    "caption": "La Bodega · restaurante español",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-espanol-hotel-riu-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "8a93d203e690e4a1fb31bcfdcfa827542f0fa4ed7caeef50f8579305872561c5"
+  },
+  {
+    "path": "assets/images/foto-21.jpg",
+    "caption": "Luigi · restaurante italiano",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/restaurante-italiano-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "7bdb3eb98f96ebb329ec080660da5a441caf430ca33ebf8e8af4ea189a02e1b4"
+  },
+  {
+    "path": "assets/images/foto-22.jpg",
+    "caption": "Capuchino · café y pastelería",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/capuccino-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "a6c8a619d3c3784dce09e3d4b396f6eaa871c5130b3653f0fafa3eaf3575ae05"
+  },
+  {
+    "path": "assets/images/foto-23.jpg",
+    "caption": "Bar de piscina",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/pool-bar-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "c5924909e7643c21e493473fc8e1933fa1d1916a20d6fb77e1f175ce5eb93831"
+  },
+  {
+    "path": "assets/images/foto-24.jpg",
+    "caption": "Sports Bar",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/sport-bar-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "952459281dc0dddf76f20cf7223a823dfc4e333998d12912d590be152d97757a"
+  },
+  {
+    "path": "assets/images/foto-25.jpg",
+    "caption": "Gimnasio · catálogo oficial",
+    "category": "Deportes y ocio",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/spa-y-deportes/gym-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "918f9a61ae17217ceefaf52b02dca440c0d5fe845444733bd58c86a5d4543672"
+  },
+  {
+    "path": "assets/images/foto-26.jpg",
+    "caption": "Renova Spa · servicios y cargos por confirmar",
+    "category": "Deportes y ocio",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/spa-y-deportes/spa-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "c35d9fe89e46a04039ca43d9848470a433104317c756f7a115b2038e00266f0f"
+  },
+  {
+    "path": "assets/images/foto-27.jpg",
+    "caption": "Junior Suite estándar · SJSB",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJSB.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "c4bf50925afc507a0e9d27ff6c66ba90f9861a00ceb6fcce06c4e3c07032267c"
+  },
+  {
+    "path": "assets/images/foto-28.jpg",
+    "caption": "Superior Junior Suite · SJEB, mejora por cotizar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJEB.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "c4bf50925afc507a0e9d27ff6c66ba90f9861a00ceb6fcce06c4e3c07032267c"
+  },
+  {
+    "path": "assets/images/foto-29.jpg",
+    "caption": "Junior Suites comunicantes · SJSF, confirmar precio",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJSF.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "c4bf50925afc507a0e9d27ff6c66ba90f9861a00ceb6fcce06c4e3c07032267c"
+  },
+  {
+    "path": "assets/images/foto-30.jpg",
+    "caption": "Suite vista mar · SUMB, mejora por cotizar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SUMB.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "d480d5ebbd6a3a032c684cf288cf8bec7ad44c94c822fa8ba0b7eb70d0aca001"
+  },
+  {
+    "path": "assets/images/foto-31.jpg",
+    "caption": "Junior Suite · variante de catálogo por confirmar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJSM.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "160c520b9d5c4cf153200617e0bd0cd31518ee111cf7baafef07de58b4c32bef"
+  },
+  {
+    "path": "assets/images/foto-32.jpg",
+    "caption": "Bar del lobby",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/bar-lobby-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "2eba17524a74e30267e55cfae3bc490fc8cdfa96552f1c9a766622a03173ebc0"
+  },
+  {
+    "path": "assets/images/foto-33.jpg",
+    "caption": "Bar de la plaza",
+    "category": "Comidas y bares",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Gastronomia/bar-plaza-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "08c3bdf81c66e6d3453e592d575fb651b1297a05b46b571563c49c1e634aee84"
+  },
+  {
+    "path": "assets/images/foto-34.jpg",
+    "caption": "Espectáculo nocturno · programación ilustrativa",
+    "category": "Deportes y ocio",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Entretenimiento/shows-hotel-riu-palace-punta-cana-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "0d5b0b2008c2f7de12c92363c28f8355a9387d71e77b11ea377678203c6a5496"
+  },
+  {
+    "path": "assets/images/foto-35.jpg",
+    "caption": "Arena Gorda · vista de catálogo del hotel",
+    "category": "Playa y hotel",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Playa/beach-hotel-riu-palace-punta-cana-4.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "11fc18f3fba046423f87afe78f74b57f87d433fb69cf22e4d3e135ee0b0b4c47"
+  },
+  {
+    "path": "assets/images/foto-36.jpg",
+    "caption": "Arena Gorda · vista de catálogo del hotel",
+    "category": "Playa y hotel",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Playa/beach-hotel-riu-palace-punta-cana-5.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "d182bd2affbd36355b4a3cbc5b59cef2f0981cea2e21fb6c8801dcf59cb1ef06"
+  },
+  {
+    "path": "assets/images/foto-37.jpg",
+    "caption": "Arena Gorda · vista de catálogo del hotel",
+    "category": "Playa y hotel",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Playa/beach-hotel-riu-palace-punta-cana.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "a0d527de90c0ab333513d36e05a1f34325eb9306e6dae5fd36591372d7120049"
+  },
+  {
+    "path": "assets/images/foto-38.jpg",
+    "caption": "Gimnasio · catálogo oficial",
+    "category": "Deportes y ocio",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/spa-y-deportes/gym-hotel-riu-palace-punta-cana-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "43433c2d35ed9145b98de42ae443bb28d0dc4db682160452fb42e3583385a045"
+  },
+  {
+    "path": "assets/images/foto-39.jpg",
+    "caption": "Renova Spa · servicios y cargos por confirmar",
+    "category": "Deportes y ocio",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/spa-y-deportes/spa-hotel-riu-palace-punta-cana-3.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "7ff336b7cc57cf8a846b0e172bd30fd9ea5f270be1d3def4c894c918196f700d"
+  },
+  {
+    "path": "assets/images/foto-40.jpg",
+    "caption": "Renova Spa · servicios y cargos por confirmar",
+    "category": "Deportes y ocio",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/spa-y-deportes/spa-hotel-riu-palace-punta-cana-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "daa99c13b9e65ec27816b76d15a0934808e8c553de1ed44698a2bee76d516b5f"
+  },
+  {
+    "path": "assets/images/foto-41.jpg",
+    "caption": "Junior Suite estándar · SJSB",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJSB-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "339f0d2e5f1bb6118cac6bc8d5c7011314362d8bee228a5c72a4ffbfdb3d0cdf"
+  },
+  {
+    "path": "assets/images/foto-42.jpg",
+    "caption": "Superior Junior Suite · SJEB, mejora por cotizar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJEB-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "86f97899524d662932f28365d2bfcf064fa3d2c943673812cd4f030e82f912e2"
+  },
+  {
+    "path": "assets/images/foto-43.jpg",
+    "caption": "Superior Junior Suite · SJEB, mejora por cotizar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJEB-3.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "0d0ba95a277928bc80713d0b0ee060bd4e4969424741de037aac4c0e8574dc23"
+  },
+  {
+    "path": "assets/images/foto-44.jpg",
+    "caption": "Junior Suite · variante de catálogo por confirmar",
+    "category": "Habitaciones",
+    "url": "https://www.riu.com/dam/Ficha-Hotel/Hotel-Riu-Palace-Punta-Cana/Habitaciones/room-riu-palace-punta-cana-SJMB-2.jpg",
+    "sourcePage": "https://www.riu.com/en/hotel/dominican-republic/punta-cana/hotel-riu-palace-punta-cana",
+    "captureDate": "No publicada",
+    "consulted": "2026-10-07",
+    "sha256": "339f0d2e5f1bb6118cac6bc8d5c7011314362d8bee228a5c72a4ffbfdb3d0cdf"
+  }
+]

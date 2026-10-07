@@ -1,0 +1,23 @@
+{
+  "scope": "Contorno interpretado como bahía/costa sur Samaná, Miches, Uvero Alto, Bávaro y Punta Cana; no es un polígono GIS exacto.",
+  "riuQuote": {
+    "dates": "15–23 enero 2027",
+    "people": 2,
+    "rooms": 1,
+    "taxIncluded": true,
+    "publicARS": {
+      "macao": 5841277,
+      "bavaro": 5905509,
+      "punta": 5109414
+    },
+    "memberARS": {
+      "macao": 5257100,
+      "bavaro": 5315007,
+      "punta": 4598473
+    },
+    "macaoRoom": "Superior Junior Suite31m²",
+    "macaoTerms": "Free Cancellation en motor; vencimiento exacto no inspeccionado"
+  },
+  "flightReused": "Observación de hoy del informe original. No nueva cotización de bloque grupal.",
+  "limits": "20min no permiten verificar inventario grupal de todos. No se garantizan precios/condiciones futuros."
+}

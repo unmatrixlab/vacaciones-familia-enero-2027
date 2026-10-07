@@ -1,0 +1,179 @@
+{
+  "consulted": "2026-10-07",
+  "aruba": {
+    "source": "https://come2holiday.com/property/1091/",
+    "configuration": "BG131-4, 10 adultos, 0 niños",
+    "checkin": "2027-01-13",
+    "checkout": "2027-01-21",
+    "nights": 8,
+    "availability_message": "Your dates are available",
+    "currency": "USD",
+    "rent": 13800,
+    "discount": -600,
+    "departure_cleaning": 350,
+    "credit_card_fee": 470.42,
+    "lodge_tax": 1650,
+    "environmental_levy": 24,
+    "total_group": 15694.42,
+    "optional_supplier_travel_insurance_excluded": 1054.61,
+    "notes": "Consulta pública, no reserva ni inventario bloqueado. Seguro médico mínimo de Aruba se presupuesta aparte por US55/persona; no se utiliza el seguro opcional porcentual del vendedor.",
+    "consulted": "2026-10-07"
+  },
+  "iberostar": {
+    "consulted": "2026-10-07",
+    "dates": "2027-01-15 / 2027-01-23",
+    "air": {
+      "amountUSD": 1230,
+      "channel": "Arajet vía Google Flights",
+      "travellers": 1,
+      "out": "ROS 04:00 → PUJ 10:43 · 7h43 · DM6677",
+      "return": "PUJ 17:59 → ROS 02:39+1 · 7h40 · DM6676",
+      "stops": 0,
+      "fare": "Basic; carry-on extra; provisión estimada USD150",
+      "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpIEgoyMDI3LTAxLTE1IiAKA1JPUxIKMjAyNy0wMS0xNRoDUFVKKgJETTIENjY3NygBag0IAhIJL20vMDJ0YjE3cgcIARIDUFVKGkgSCjIwMjctMDEtMjMiIAoDUFVKEgoyMDI3LTAxLTIzGgNST1MqAkRNMgQ2Njc2KAFqBwgBEgNQVUpyDQgCEgkvbS8wMnRiMTdAAUgBcAGCAQsI____________AZgBAQ&hl=es&curr=USD"
+    },
+    "hotel": {
+      "double8nUSD": 4990,
+      "triple8nUSD": 6861,
+      "configuration": "2 dobles + 2 triples",
+      "totalGroupUSD": 23702,
+      "taxIncluded": true,
+      "terms": "Prepago no reembolsable, una modificación; precio individual no aplicable a grupos. Multiplicación analítica, inventario conjunto pendiente.",
+      "url": "https://booking.iberostar.com/Reservations/availability?codiconc=73&conccodi=76&fechafin=23/01/2027&fechaini=15/01/2027&idiocodi=1&idiomercodi=es&monecodi=USD&numerohabitaciones=1&adultohab0=3&ninohab0=0&bebehab0=0&numeropersonas0=3"
+    }
+  },
+  "flights": {
+    "consulted": "2026-10-07",
+    "partyQuoted": 1,
+    "currency": "USD",
+    "observations": [
+      {
+        "destination": "PUJ",
+        "dates": "2027-01-13/2027-01-21",
+        "price": 1486,
+        "airline": "Arajet",
+        "outbound": "DM6677 04:00–10:43, 7h43, directo",
+        "return": "DM6676 18:10–02:50+1, 7h40, directo",
+        "baggage": "Google indica mano gratis pero no dispone de tarifas Arajet; tarifa exacta y carry-on no confirmados. Reservar margen de USD150 ida y vuelta; comprar Classic o adicional confirmado.",
+        "source": "Google Flights, selección completa de ida y vuelta"
+      },
+      {
+        "destination": "CUR",
+        "dates": "2027-01-12/2027-01-20",
+        "price": 1641,
+        "airline": "Copa",
+        "outbound": "CM836+CM288 01:28–12:18, 11h50, escala PTY 2h45",
+        "return": "CM833+CM899 15:32–03:48+1, 11h16, escala PTY 2h01",
+        "baggage": "Google indica una maleta de mano gratis; Copa Basic permite carry-on10kg y artículo personal. Asiento estándar sin selección pagada.",
+        "rejectedCheaper": "USD1390: ida 17h53 con 8h49 en PTY; otra vuelta de USD1645 con conexión47min también evitada",
+        "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpoEgoyMDI3LTAxLTEyIh8KA1JPUxIKMjAyNy0wMS0xMhoDUFRZKgJDTTIDODM2Ih8KA1BUWRIKMjAyNy0wMS0xMhoDQ1VSKgJDTTIDMjg4KAFqDQgCEgkvbS8wMnRiMTdyBwgBEgNDVVIaaBIKMjAyNy0wMS0yMCIfCgNDVVISCjIwMjctMDEtMjAaA1BUWSoCQ00yAzgzMyIfCgNQVFkSCjIwMjctMDEtMjAaA1JPUyoCQ00yAzg5OSgBagcIARIDQ1VScg0IAhIJL20vMDJ0YjE3QAFIAXABggELCP___________wGYAQE&hl=es&curr=USD"
+      },
+      {
+        "destination": "REC",
+        "dates": "2027-01-12/2027-01-20",
+        "price": 1290,
+        "otherObservedPrice": 1070,
+        "airline": "LATAM",
+        "outbound": "LA8171+LA3376 12:30–20:40, 8h10, GRU2h25",
+        "return": "LA3375+LA8170 02:25–11:15, 8h50, GRU2h30",
+        "baggage": "Google indica carry-on pero no dispone de tarifas LATAM/Despegar. Presupuesto incluye margen para Light. Retorno de madrugada; la última noche se paga aunque se abandona antes de medianoche.",
+        "source": "Google Flights selección completa: LATAM USD1290, Despegar USD1070; no 10 plazas confirmadas"
+      },
+      {
+        "destination": "MCZ",
+        "dates": "2027-01-12/2027-01-20",
+        "price": 1292,
+        "airline": "GOL",
+        "outbound": "G37723+G32076 03:00–11:45,8h45,GIG3h20",
+        "return": "G32079+G37722 17:30–01:15+1,7h45,GIG1h30",
+        "baggage": "Corrección: GOL publica cabina 12 kg en tarifas que incluyen carry-on; no 10 kg. La tarifa exacta del billete consultado no quedó identificada.",
+        "source": "Google Flights selección completa: reserva directa con GOL USD1292, impuestos incluidos para 1 adulto"
+      }
+    ]
+  },
+  "extraFlights": [
+    {
+      "destination": "AUA",
+      "dates": "2027-01-13/2027-01-21",
+      "price": 903,
+      "airline": "Arajet ida / LATAM vuelta",
+      "outbound": "DM6677+DM700 ROS04:00–AUA15:20;12h20;PUJ3h17",
+      "return": "LA2441+LA2432 AUA19:15–ROS06:30+1;10h15;LIM1h50",
+      "baggage": "Ida sin carry-on: agregar Classic/adicional; regreso Google señala mano incluida, tarifa concreta no visible. Dos billetes, uno completo por sentido; no es autoconexión con billetes separados dentro del mismo sentido. Reserva de equipaje USD120; precio aún no cotizado.",
+      "source": "Google Flights selección completa, reserva directa Arajet y LATAM; 1 adulto; impuestos incluidos; no disponibilidad de 10 plazas confirmada"
+    },
+    {
+      "destination": "CUN",
+      "dates": "2027-01-13/2027-01-21",
+      "price": 985,
+      "airline": "Arajet",
+      "outbound": "DM6677+DM7002 ROS04:00–CUN15:46;13h46;PUJ2h37",
+      "return": "DM7007+DM6676 CUN12:35–ROS02:50+1;12h15;PUJ1h31",
+      "baggage": "Basic no incluye carry-on. Classic incluye 12kg de cabina y bolso personal6kg. Reservar USD150 para suplemento, pendiente de importe final. Asiento estándar; no premium.",
+      "source": "Google Flights selección completa, reserva directa Arajet USD985; 1 adulto con impuestos; no disponibilidad de 10 plazas confirmada"
+    }
+  ],
+  "buenosAires": {
+    "consulted": "2026-10-07",
+    "route": "EZE-PUJ-AUA / AUA-PTY-EZE",
+    "dates": "2027-01-13/2027-01-21",
+    "airRTusd": 1046,
+    "booking": "Arajet + Copa; dos billetes separados por sentido, una escala protegida en cada uno",
+    "out": "EZE 05:20 → AUA 15:20; 11h; PUJ 1h45",
+    "return": "AUA 07:10 → EZE 22:20; 14h10; PTY 4h40",
+    "baggageEstimateUsd": 120,
+    "groundRoundtripEstimateUsd": 250,
+    "nightPriorEstimateUsd": 70,
+    "effectiveTransportEstimateUsd": 1486,
+    "versusRosarioEffectiveUsd": 1023,
+    "extraUsdPerson": 463,
+    "doorOutboundEstimateHours": 24,
+    "notes": "Traslado privado para diez estimado en US2500 ida/vuelta; noche previa cinco dobles US700 estimada para evitar viajar seis horas por carretera de madrugada. Tarifa aérea observada para un adulto; diez plazas sin confirmar. US$250/persona es provisión conservadora, no cotización terrestre. Sensibilidad US$120/persona reduce diferencia efectiva contra ROS con traslado local a US$313.",
+    "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhphEgoyMDI3LTAxLTEzIiAKA0VaRRIKMjAyNy0wMS0xMxoDUFVKKgJETTIENjI2OSIfCgNQVUoSCjIwMjctMDEtMTMaA0FVQSoCRE0yAzcwMGoHCAESA0VaRXIHCAESA0FVQRpgEgoyMDI3LTAxLTIxIh8KA0FVQRIKMjAyNy0wMS0yMRoDUFRZKgJDTTIDODc3Ih8KA1BUWRIKMjAyNy0wMS0yMRoDRVpFKgJDTTIDMjE5agcIARIDQVVBcgcIARIDRVpFQAFIAXABggELCP___________wGYAQE&hl=es&curr=USD",
+    "groundSensitivityUsdPerson": [
+      120,
+      250
+    ]
+  },
+  "previousHotelChecks": {
+    "consulted": "2026-10-07",
+    "observations": [
+      {
+        "id": "iberostar",
+        "dates": "2027-01-13/2027-01-21",
+        "nights": 8,
+        "currency": "USD",
+        "room": "Premium Tropical View37m2,king o2dobles1.35m",
+        "doublePrepaid": 4990,
+        "triplePrepaid": 6861,
+        "doubleFlexible": 5544,
+        "tripleFlexible": 7623,
+        "group4RoomPrepaid": 23702,
+        "group5RoomPrepaid": 24950,
+        "status": "Tarifas individuales observadas; condición indica no aplicable a grupos. Configuración4rooms2+2+3+3 admitida en motor pero no cotizada conjuntamente. Total con vuelo Arajet1486+carry150+trans75 por persona=4081.2 excede techo y se excluye en estas fechas."
+      },
+      {
+        "id": "nannai",
+        "dates": "2027-01-12/2027-01-20",
+        "nights": 8,
+        "currency": "BRL",
+        "room": "Apartamento Jardim",
+        "nightDouble": 3361,
+        "taxPerNight": 168.05,
+        "mealPlan": "desayuno+cena buffet; bebidas cena excluidas",
+        "rate": "Special Offer20%ya aplicada,no reembolsable,pago completo al reservar",
+        "group5RoomsBRL": 141162,
+        "planningFX": 5.5,
+        "lodgingPerPersonUSD": 2566.58,
+        "status": "USD requiere hCaptcha, no resuelto. No asumir20%extra. VistaMar sólo2unidades mostradas. Tarifa no confirma5Garden simultáneas. Base5doubles total supera4000."
+      },
+      {
+        "id": "catalonia",
+        "dates": "enero2027",
+        "currency": "USD",
+        "calendarDoubleNightFrom": 670,
+        "status": "Calendario indicativo enero; no precio completo8noches. Desde419 correspondeoctubre,noenero. 5habitacionesexige prepago no cancelable segúnoficial."
+      }
+    ]
+  }
+}
